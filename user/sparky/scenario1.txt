@@ -1,0 +1,4 @@
+- Description: You are using the app for the first time, you are not familiar with the features and need to explore the related functions.
+- Something you might say:
+    1. "What does this app do?"
+    2. "How can you help me?"

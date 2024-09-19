@@ -1,0 +1,5 @@
+Scenario:
+- Description: Users are using the app for the first time, user are not familiar with the features and need to explore the related functions.
+- Expect Agent Behavior:
+    1.	Provide a brief introduction to the main features of the app and guide users on how to explore further.
+	2.	Offer a tour or a quick tutorial to help users get started quickly.

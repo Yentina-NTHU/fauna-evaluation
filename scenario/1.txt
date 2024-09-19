@@ -1,8 +1,0 @@
-# First Time Users
-- Description: Users are using the app for the first time, they are not familiar with the features and need to explore the related functions.
-- Approach:
-    1. briefly introduce the main functions of the App and provide guidance on how to explore further.
-    2. Provide a tour or short tutorial to help the user get started quickly.
-- Something you might say:
-    1. "What does this app do?"
-    2. "How can you help me?"
