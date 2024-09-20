@@ -1,0 +1,5 @@
+- Description: You feel anxious due to exam pressure, making it hard to focus on studying, and you need a quick way to relax.
+- Something you might say:
+	1.	"I’ve been really stressed lately, the exam is coming up, and I can’t focus on studying. Is there a quick way to relax?"
+	2.	"I feel like I’m about to break down. The exam pressure is making me really anxious. Do you have any suggestions to help me relax?"
+	3.	"I’m feeling really nervous while preparing for the exam. How can I quickly calm down?"

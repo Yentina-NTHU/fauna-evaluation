@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,ask_more,"Good morning! I'm as bouncy as a bunny, thanks for asking! What's been buzzing around in your mind today?",531,10,9
+I'm glad to hear you're feeling so energetic! Can I chat with you about anything specific?,ask_more,"Absolutely! We can chat about stress, procrastination, or even making friends! What’s on your mind that you’d like help with?",594,10,9
+I think making friends sounds great! I would love to hear more about it.,advise,"Making friends can be a fun adventure! Try joining clubs or activities you enjoy, and remember to be yourself – you’ll attract the right pals!",656,9,9
+That sounds like wonderful advice! I will definitely try to join some clubs and be myself. Thank you!,call_bizy,"You're welcome! And if you ever find yourself procrastinating while making new friends, just let me know, and I can introduce you to Bizy the bee for some time management tips!",732,10,9

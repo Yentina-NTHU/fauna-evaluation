@@ -1,0 +1,5 @@
+Scenario:
+- Description: The user discovered the app through related advertisements and is interested in certain features.
+- Expected Agent Behavior:
+	1.	Respond specifically to the user’s questions and introduce the relevant features.
+	2.	Provide practical examples or case studies to help the user understand the value of the features.

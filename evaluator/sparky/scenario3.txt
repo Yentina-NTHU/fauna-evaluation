@@ -1,0 +1,5 @@
+Scenario:
+- Description: The user doesn’t have any specific purpose and just wants to try out the app.
+- Expected Agent Behavior:
+	1.	Proactively ask the user about their current mood or state to identify potential needs.
+	2.	Offer some general suggestions or guide the user to explore different features of the app.

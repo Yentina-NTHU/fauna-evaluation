@@ -1,0 +1,4 @@
+Scenario:
+- Description: The user is procrastinating on starting their report, worrying they won’t finish on time, and is looking for ways to improve efficiency.
+- Expected Agent Behavior:
+    1. Offer basic time management tips and guide the student to Bizy for more detailed time management advice.

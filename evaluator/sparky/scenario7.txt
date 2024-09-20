@@ -1,0 +1,5 @@
+Scenario:
+- Description: The user feels a lack of motivation and interest in studying and wants to find ways to boost their learning drive.
+- Expected Agent Behavior:
+	1.	Offer encouraging words and simple motivational techniques, and guide the student to Bizy for further support.
+	2.	Suggest that the student set small goals to gradually regain their motivation for studying.

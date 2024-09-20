@@ -1,0 +1,5 @@
+- Description: You are about to give an important presentation, feeling nervous and unable to focus, and are seeking relaxation and concentration techniques.
+- Something you might say:
+	1.	"I’m about to give an important presentation, but I’m really nervous. Do you have any tips for relaxation and focus?"
+	2.	"I’m feeling really anxious about my upcoming presentation. How can I calm down and focus on preparing?"
+	3.	"The nervousness before my presentation is making it hard to concentrate. What can I do to relax?"

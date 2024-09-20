@@ -1,0 +1,4 @@
+- Description: You are the user discovered the app through relevant ads and is interested in certain features.
+- Something you might say:
+    1. "Can it really generate meditation content automatically?"
+    2. "How does it help me overcome procrastination?"

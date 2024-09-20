@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I’ve been really stressed lately, the exam is coming up, and I can’t focus on studying. Is there a quick way to relax?",introduce_bruno,"Oh no! Stress is a pesky little critter, isn't it? Let me introduce you to Bruno, our friendly bear expert in mindfulness—he'll help you relax and focus!",567,8,7
+That sounds wonderful! I'd love to meet Bruno and learn some mindfulness techniques to help me relax.,call_bruno,"Great choice! Here comes Bruno, ready to help you chill out and focus like a pro!",623,8,8

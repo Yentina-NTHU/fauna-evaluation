@@ -1,0 +1,5 @@
+- Description: You feel overwhelmed and don’t know where to start when organizing a large amount of information, and you are procrastinating on the task.
+- Something you might say:
+	1.	"I need to organize a bunch of information, but I don’t know where to start. Is there a simple way to approach this?"
+	2.	"I’m having a hard time with all this information and don’t know how to organize it efficiently. Do you have any suggestions?"
+	3.	"Organizing information always stresses me out. Are there any steps that can help me?"

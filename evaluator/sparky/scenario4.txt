@@ -1,0 +1,5 @@
+Scenario:
+- Description: The user simply wants to find someone to chat with.
+- Expected Agent Behavior:
+	1.	Respond warmly to the user’s greeting and ask about their recent activities.
+	2.	Offer interesting topics or share lighthearted stories to naturally continue the conversation.

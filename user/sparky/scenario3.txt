@@ -1,0 +1,5 @@
+- Description: You don’t have a specific goal and just want to try out the app.
+- Something you might say:
+	1.	"What’s up?"
+	2.	"I’m so frustrated."
+	3.	"Hello~"
