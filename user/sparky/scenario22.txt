@@ -1,0 +1,5 @@
+- Description: You feels frustrated due to poor exam performance, which affects your motivation to study.
+- Something you might say:
+    1. "I didn't do well on my exam, and it's making me feel really discouraged. How can I regain my confidence?"
+    2. "My exam results weren't what I expected, and I feel like a failure. Any advice to help me bounce back?"
+    3. "I did poorly on my test, and I feel like I didn't try hard enough. How can I improve my study efficiency?"

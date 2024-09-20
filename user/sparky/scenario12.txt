@@ -1,0 +1,5 @@
+- Description: You haven't completed their study plan on time and feels anxious and defeated.
+- Something you might say:
+    1. "I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?"
+    2. "My study plan is behind schedule."
+    3. "I failed to finish my original study plan, and it's frustrating me."

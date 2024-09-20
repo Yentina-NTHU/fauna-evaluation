@@ -1,0 +1,5 @@
+- Description: You are struggling with a lack of inspiration while writing and needs to boost creativity.
+- Something you might say:
+    1. "I've been stuck with no ideas for my writing."
+    2. "I'm facing writer's block and can't seem to find inspiration. How to get started?"
+    3. "I've run out of ideas for my writing project."

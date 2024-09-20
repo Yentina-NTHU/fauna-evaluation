@@ -1,0 +1,5 @@
+Scenario:
+- Description: You find yourself spending too much time on social media, which is affecting their study progress, and they want to improve time management.
+- Expect Agent Behavior:
+    1. Provide tips for controlling social media time, such as setting time limits or using focus apps.
+    2. Guide them to Bizy for more time management strategies.

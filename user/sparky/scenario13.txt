@@ -1,0 +1,5 @@
+- Description: You feel overwhelmed by a new task or challenge and cannot figure out where to start.
+- Something you might say:
+    1. "I'm facing a new task and don't know where to start."
+    2. "A new challenge is overwhelming me. How can I begin working on this task quickly?"
+    3. "I feel lost with a new task."

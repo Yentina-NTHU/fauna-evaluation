@@ -1,0 +1,5 @@
+Scenario:
+- Description: You are  facing difficulties or feeling down in a romantic relationship and seeks emotional support.
+- Expect Agent Behavior:
+    1. Offer supportive words.
+    2. Guide them to Bruno for relaxation or emotional regulation exercises to provide mental relief.

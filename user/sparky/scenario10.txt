@@ -1,0 +1,5 @@
+- Description: You are a student. You feel frustrated after encountering difficult study material and wants to find a solution.
+- Something you might say:
+    1. "I'm struggling with some difficult study material and feeling frustrated. What can I do to overcome it?"
+    2. "Learning a particular subject has been really hard and it's frustrating me."
+    3. "I feel confused and frustrated by some study content."
