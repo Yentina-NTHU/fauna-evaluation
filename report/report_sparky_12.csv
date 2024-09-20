@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?,ask_more,"Do you want to focus on managing your anxiety first, or would you like help organizing your study plan? I can connect you with the right buddy!",549,7,8
+I think managing my anxiety first would be helpful. I feel so overwhelmed by everything.,introduce_bruno,There's a gentle bear named Bruno who specializes in mindfulness and relaxation. Would you like to meet him to help ease your anxiety?,610,8,7
+"Yes, I would love to meet Bruno! I think he can really help ease my anxiety.",call_bruno,Great choice! Bruno is just a paw-sitive spirit away! Let's get you connected with him!,667,8,9

@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been having problems with my friends at school, and it's stressing me out.",introduce_bruno,There's a wonderful bear named Bruno who specializes in mindfulness and stress relief. Would you like to meet him to help ease your worries?,544,8,7
+"Yes, meeting Bruno sounds wonderful! I would love to get some help to ease my worries.",call_bruno,Great choice! Bruno is ready to help you with his calming presence and techniques. Let's take a deep breath and head over!,606,7,8

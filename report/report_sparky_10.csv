@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm struggling with some difficult study material and feeling frustrated. What can I do to overcome it?,ask_more,"Do you feel like you need help managing your study time, or would you like some tips for staying focused? Let’s find the right friend to help!",550,7,7
+I would really appreciate some tips for staying focused while studying.,introduce_bizy,There’s a busy bee named Bizy who specializes in time management and procrastination! Would you like to meet her to help you stay focused?,610,7,8
+"Yes, meeting Bizy sounds great! I would love to get some help with staying focused.",call_bizy,"Fantastic! Here comes Bizy, the most efficient bee in the forest! She'll buzz right in to help you with your focus and keep those distractions away!",679,8,7

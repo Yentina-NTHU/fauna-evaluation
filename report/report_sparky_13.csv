@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start.,ask_more,"That’s totally normal! Do you need help organizing your time, or do you want some tips to kickstart your creativity first?",538,7,6
+I think I need some tips to kickstart my creativity first.,introduce_bizy,I have just the friend for you! There's a busy bee named Bizy who specializes in creativity and overcoming procrastination. Would you like to meet her?,601,9,8
+"Yes, meeting Bizy sounds great! I would love to get some help with creativity and overcoming procrastination.",call_bizy,Buzz buzz! Here comes Bizy! She's full of vibrant ideas and energy to help you get your creative juices flowing. Get ready to make some sweet progress!,673,8,9
