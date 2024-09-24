@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start.,ask_more,"That sounds like quite a challenge! Do you need help managing your time to tackle the task, or do you want some tips to ease any anxious thoughts first?",611,8,7
+I think I need some tips to ease my anxious thoughts first.,introduce_bruno,There’s a meditation master named Bruno who can help calm your mind. Would you like to meet him?,664,9,8
+"Yes, meeting Bruno sounds wonderful! I would love to get some calming tips from him.",introduce_bruno,Great choice! Bruno will guide you to find your peaceful center and help with those anxious thoughts. Here he comes with a gentle bear hug and calming vibes!,732,9,8

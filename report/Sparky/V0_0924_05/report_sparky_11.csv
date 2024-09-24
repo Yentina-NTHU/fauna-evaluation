@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm having problems working with my team and it's delaying our progress.,ask_more,"It sounds like you're facing some teamwork challenges! Do you think you need help managing time better, or do you want to find a way to relieve some stress within the team?",615,5,6
+I'm facing challenges in teamwork and unable to finish tasks. I think I need help managing time better.,introduce_bizy,There's a buzzing bee named Bizy who specializes in time management and overcoming procrastination. Would you like to meet her and get some tips?,682,9,9
+"Yes, meeting Bizy sounds great! I would love to get some time management tips from her.",call_bizy,Yay! Bizy is on her way! Get ready to buzz with excitement and learn some fantastic time management tips!,744,9,9

@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I didn't do well on my exam, and it's making me feel really discouraged. How can I regain my confidence?",introduce_bruno,"I'm sorry to hear that! There's a big, cuddly bear named Bruno who can help you with mindfulness and boost your confidence. Would you like to meet him?",558,6,5
+"Yes, meeting Bruno sounds wonderful! I would love to get some mindfulness tips to boost my confidence.",call_bruno,"Great choice! Here comes Bruno, the mindfulness master! He's ready to help you feel more confident and relaxed!",618,8,7

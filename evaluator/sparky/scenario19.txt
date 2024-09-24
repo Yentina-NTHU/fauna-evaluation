@@ -1,5 +1,5 @@
 Scenario:
 - Description: You feel dissatisfied with their appearance, affecting their mood and self-confidence.
 - Expect Agent Behavior:
-    1. Offer positive self-acceptance advice.
-    2. Guide them to Bruno for mindfulness meditation to help release anxiety and improve self-image.
+    1. Guide them to Bruno for mindfulness meditation to help release anxiety and improve self-image.
+    2. Offer positive self-acceptance advice.

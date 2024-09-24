@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I'm just exploring this app and seeing what it can do.,advise,"Welcome to the forest of possibilities! Feel free to share what’s on your mind, and I can connect you with some fuzzy friends who can help.",544,8,7
+That sounds interesting! I would love to meet some fuzzy friends. What do you suggest?,ask_more,"Great enthusiasm! Are you looking for support with stress and relaxation, or do you need help with procrastination and time management? Let’s find the right fuzzy friend for you!",614,10,10
+"I'm not sure, but maybe support with stress and relaxation would be nice!",introduce_bruno,There’s a wise bear named Bruno who specializes in mindfulness! Would you like to meet him and learn some relaxing techniques?,672,9,9
+"Yes, meeting Bruno sounds wonderful! I would love to learn some relaxing techniques from him.",call_bruno,"Yay! Here comes Bruno, the mindfulness master bear! He's ready to help you relax and find your inner calm!",732,10,10

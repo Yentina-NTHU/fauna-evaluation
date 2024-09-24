@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?,ask_more,"Do you want some tips to manage your time better, or would you prefer to relax and clear your mind first? I can connect you with the best friend to help!",553,8,8
+I think some tips to manage my time better would really help me right now.,introduce_bizy,Fantastic! There's a buzzing bee named Bizy who specializes in procrastination and time management. Would you like to meet her to get tips?,616,8,9
+"Yes, meeting Bizy sounds great! I would love to get some tips on time management from her.",call_bizy,Awesome! I'm buzzing with excitement to introduce you to Bizy! She's full of fantastic time management tips that will have you buzzing through your study plan!,685,9,9

@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?,ask_more,"Do you want to find a way to organize your remaining study time, or would you prefer to relax and take a breather first? Let’s figure out which furry friend can help!",556,6,7
+I think I should find a way to organize my remaining study time. I really need to catch up.,introduce_bizy,There's a buzzing bee named Bizy who specializes in time management and dealing with procrastination! Would you like to meet her to help you catch up on that study plan?,630,8,7
+"Yes, meeting Bizy sounds great! I would love to get her help to catch up on my study plan.",call_bizy,"Buzzing right in! Here comes Bizy, the time management queen! She's ready to help you organize your study plan and get you back on track!",702,8,9

@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm having problems working with my team and it's delaying our progress.,ask_more,"Are you looking for tips on how to work better together, or do you need help managing your time? Let me connect you with the right animal friend for support!",546,8,7
+I'm looking for tips on how to work better together.,advise,"Communication is key! Try setting clear goals, holding regular check-ins, and being open to everyone’s ideas. Teamwork makes the dream work, after all!",606,9,9
+Thank you for the tips! I will definitely try setting clear goals and holding regular check-ins with my team.,call_bizy,"That's fantastic to hear! If you find yourself needing help managing your time with all these goals, we can also meet Bizy the bee, who specializes in procrastination!",680,10,9
+Meeting Bizy the bee sounds great! I would love to get help managing my time if I need it.,introduce_bizy,Buzzing fantastic! Bizy the bee is always ready to help with time management and beating procrastination. Let’s welcome her to the hive!,750,10,9

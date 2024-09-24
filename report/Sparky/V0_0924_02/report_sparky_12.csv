@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?,ask_more,It sounds like you have a lot on your plate! Do you want help with relaxation techniques or maybe some tips on managing your time better? Let’s find the best solution together!,555,8,8
+I think some tips on managing my time better would be really helpful!,introduce_bizy,I know just the bee for you! Bizy specializes in procrastination and time management; she can help you get right back on track! Want to meet her?,621,9,9
+"Yes, I would love to meet Bizy and get some help with my time management!",call_bizy,Buzzing on over! Bizy the bee is here to help you tackle that time management with flair and fun! She's got some sweet strategies to share!,688,9,9

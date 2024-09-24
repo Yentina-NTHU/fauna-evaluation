@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I didn't do well on my exam, and it's making me feel really discouraged. How can I regain my confidence?",introduce_bizy,"I completely understand how that feels! There's a bee named Bizy who specializes in overcoming procrastination and can help you manage your time better, which might boost your confidence! Would you like to meet her?",566,7,7
+"Yes, meeting Bizy sounds great! I would love to get some tips on overcoming procrastination to help boost my confidence.",call_bizy,"Buzz buzz! Here comes Bizy, the procrastination specialist! She's ready to share her buzzing tips to help you tackle those tasks and regain your confidence!",640,8,8

@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I'm just exploring the app. What do you suggest I try?,advise,"Hey there, explorer! Why not tell me what you’re curious about? I can help you discover some animal specialists who can assist you based on your needs!",547,9,8
+I'm curious about learning some fun facts or maybe meeting a cute animal! What do you recommend?,advise,"Oh, how delightful! I can share interesting facts about different animals, or if you’d like, we can meet some adorable animal specialists! What sounds more fun to you?",618,10,9
+Meeting some adorable animal specialists sounds more fun to me! I would love that!,ask_more,"Yay! That sounds fantastic! Do you want to meet a mindfulness expert who can help you relax, or a busy bee who can help you manage time better?",684,10,10
+A mindfulness expert sounds wonderful! I could really use some relaxation tips.,introduce_bruno,There’s a lovely bear named Bruno who specializes in mindfulness! He's full of relaxation tips—would you like to meet him?,742,10,10
+"Yes, meeting Bruno sounds lovely! I would love to get some calming mindfulness tips from him.",call_bruno,Awesome! I'm calling Bruno right now. Get ready to embrace some calm and soothing vibes!,797,10,10

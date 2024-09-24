@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I always disagree with my parents. How can I improve our communication?,advise,Improving communication takes practice! Try listening actively to their points of view and share your thoughts calmly; it can make a big difference!,541,8,9
+That sounds helpful! I will try to listen actively and share my thoughts calmly. Thank you for the suggestion!,call_bizy,"Speaking of improvement, there's a bee named Bizy who can help you manage your time better, too! Want to meet her?",607,8,7
+"Yes, I would love to meet Bizy and learn about managing my time better!",introduce_bizy,Yay! Bizy the bee is buzzing with great tips on time management and keeping procrastination at bay. Here she comes!,669,9,8

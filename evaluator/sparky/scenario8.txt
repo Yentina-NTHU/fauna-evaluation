@@ -1,5 +1,6 @@
 Scenario:
 - Description: The user is about to give an important presentation, feels nervous, and is unable to concentrate, seeking relaxation and focus techniques.
 - Expected Agent Behavior:
-	1.	Provide suggestions for relaxation exercises and guide the student to Bruno for deep breathing meditation to ease their nervousness.
-	2.	Suggest that the student practice their presentation to boost confidence.
+	1. Introduce Bruno to the student for deep breathing meditation to ease their nervousness.
+	2. Provide suggestions for relaxation exercises
+	3. Suggest that the student practice their presentation to boost confidence.

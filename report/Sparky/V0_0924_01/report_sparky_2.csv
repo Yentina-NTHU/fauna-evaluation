@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Can it really generate meditation content automatically?,ask_more,"Are you looking for a way to help you meditate, or do you want to explore mindfulness practices? I can connect you with the right animal friend!",538,6,5
+I am looking for a way to help me meditate.,introduce_bruno,I have just the buddy for you! There's a wonderful bear named Bruno who specializes in mindfulness and can guide you in meditation. Would you like to meet him?,600,9,8
+"Yes, meeting Bruno sounds perfect! I would love to get some guidance in meditation from him.",call_bruno,Yay! I'm so excited for you to meet Bruno! He's going to help you find your inner calm and peace—let's go!,665,9,9

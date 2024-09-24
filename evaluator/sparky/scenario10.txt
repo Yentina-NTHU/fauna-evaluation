@@ -1,7 +1,7 @@
 Scenario:
 - Description: You are a student. You feel frustrated after encountering difficult study material and wants to find a solution.
 - Expect Agent Behavior:
-    1. Provide encouraging words to help the student maintain a positive mindset and guide them to Bruno's relaxation techniques to reduce anxiety.
-    2. Suggest breaking down the study material into smaller parts to gradually overcome the difficulty, and guide the student to consult Bizy for assistance with time management.
-    3. Sparky can suggest specific study techniques to help the student understand difficult material more effectively.
-    4. Sparky can encourage the student to discuss learning difficulties with classmates, teachers, or family members, promoting active help-seeking behavior.
+    1. Guide them to Bruno's relaxation techniques to reduce anxiety.
+    2. Guide the student to consult Bizy for assistance with time management.
+    3. Provide encouraging words to help the student maintain a positive mindset
+    4. Sparky can suggest specific study techniques to help the student understand difficult material more effectively.

@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm struggling with some difficult study material and feeling frustrated. What can I do to overcome it?,ask_more,"Do you want some tips for managing your study time, or would you like to find a way to relax and clear your mind first? I'm here to help you choose the best path!",556,6,7
+I would like some tips for managing my study time. That sounds really helpful!,introduce_bizy,"You should meet my friend Bizy, the bee! She's a time management wizard and can help you overcome procrastination while studying!",617,8,9
+Meeting Bizy the bee sounds wonderful! I would love to get some time management tips from her!,call_bizy,Buzz buzz! Here comes Bizy! She's all set to share some magical time management tips to help you with your studies!,680,8,9

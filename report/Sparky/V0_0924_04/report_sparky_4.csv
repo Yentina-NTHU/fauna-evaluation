@@ -1,0 +1,10 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,ask_more,Good morning! I'm feeling fantastic and ready to help! What’s on your mind today? Are you looking for support with stress or time management?,536,8,8
+I'm just looking to chat with you. Can I chat with you?,advise,"Of course, I'm all ears! Let's chat about anything that's tickling your fancy—nature, animals, or even silly jokes!",593,10,10
+"Oh, I would love to chat about animals! They are so fascinating!",advise,Animals truly are amazing! Did you know that elephants can communicate through vibrations? What’s your favorite animal?,646,10,10
+That's really interesting! I think my favorite animal is a dog. They are so friendly and loyal!,advise,Dogs are pawsitively fantastic! Their wagging tails and love make them the best furry friends. Do you have a dog of your own?,712,10,10
+"I don’t have a dog of my own, but I would love to have one someday. They're just so great!",advise,They really are great companions! Just imagine all the fun adventures you'll have together—like fetch and long walks in the park!,778,10,10
+That sounds wonderful! I can't wait for those adventures.,advise,"Adventures with a dog are bound to be filled with joy! In the meantime, maybe you can volunteer at a local shelter to get some doggie time!",838,10,9
+That's a great idea! Volunteering at a shelter sounds lovely. I would really enjoy spending time with dogs there!,advise,It sure is! You’ll not only get to enjoy their company but also help them find loving homes. What a win-win for everyone!,907,10,10
+Absolutely! Helping dogs find homes while enjoying their company sounds perfect. Thank you for the suggestion!,advise,You're very welcome! I'm thrilled you liked the idea—you're going to make so many furry friends!,963,10,10
+I'm really excited about it! Making furry friends would be such a joy!,advise,"It sure will be! They'll fill your heart with love and laughter, and trust me, their wagging tails and wet kisses are the best!",1024,10,10

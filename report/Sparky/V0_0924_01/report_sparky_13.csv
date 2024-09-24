@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start. Can you help me?,ask_more,"Are you feeling overwhelmed with planning your steps, or do you find it hard to stay motivated? Let’s figure out how to support you best!",546,7,6
+I feel lost with a new task. I would appreciate any support you can offer!,ask_more,"Do you want assistance with time management to organize your approach, or would you prefer some relaxation techniques to clear your mind? Let's find the perfect friend for you!",612,7,7
+I think time management assistance would be really helpful to organize my approach.,introduce_bizy,There's a buzzing bee named Bizy who specializes in time management! Would you like to meet her and get some tips?,669,10,10
+"Yes, meeting Bizy sounds great! I would love to get some time management tips from her.",call_bizy,Awesome! Let's buzz on over to Bizy and get you those time management tips you need!,726,10,10

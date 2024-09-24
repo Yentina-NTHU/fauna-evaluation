@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?,ask_more,"Are you looking for a way to calm your nerves first, or do you need help organizing your study schedule? I can introduce you to someone who can help!",551,6,5
+I think calming my nerves first would be helpful. I would love to hear about someone who can help!,introduce_bruno,There’s a wonderful bear named Bruno who specializes in mindfulness! He can help you relax and manage your anxiety—want to meet him?,618,8,9
+"Yes, meeting Bruno sounds lovely! I would love to get some calming mindfulness tips from him.",call_bruno,Great choice! Bruno is ready to share his calming wisdom with you. Enjoy your time with him!,675,8,8

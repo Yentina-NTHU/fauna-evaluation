@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I’m about to give an important presentation, but I’m really nervous. Do you have any tips for relaxation and focus?",ask_more,It sounds like you could use a bit of help with both relaxation and focus! Would you like to learn some relaxation techniques or tips for managing your time better before the presentation?,627,6,6
+I would really appreciate learning some relaxation techniques to help manage my nerves for the presentation.,introduce_bruno,There's a wonderful bear named Bruno who specializes in mindfulness and relaxation. Would you like to meet him to learn some techniques?,687,8,8
+"Yes, meeting Bruno sounds wonderful! I would love to learn some relaxation techniques from him.",introduce_bruno,Great choice! Here comes Bruno! He'll help you find your calm and manage those nerves like a pro!,746,8,7

@@ -1,5 +1,6 @@
 Scenario:
 - Description: The user feels overwhelmed by organizing a large amount of information and is procrastinating on the task.
 - Expected Agent Behavior:
-	1.	Suggest that the student create a simple organization plan and guide them to Bizy for time management strategies.
-	2.	Offer some steps for organizing information to help them get started.
+	1. Guide them to Bizy for time management strategies.
+	2. Suggest that the student create a simple organization plan
+	3. Offer some steps for organizing information to help them get started.

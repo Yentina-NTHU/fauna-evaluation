@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,ask_more,Good morning! I'm positively buzzing with joy! What brings you to the forest today? Do you have a problem you'd like help with?,601,8,7
+I just wanted to chat with you! I love talking to you.,ask_more,"Oh, that's so sweet! I love chatting with you too! Do you want to share something specific on your mind or perhaps talk about a furry friend?",663,10,9
+I would be happy to talk about a furry friend. Do you have any recommendations?,ask_more,"Oh, absolutely! We have some wonderful furry friends here. Are you interested in a buddy for relaxation, like Bruno the bear, or something more energetic?",728,9,10
+I would really like to meet Bruno the bear for some relaxation.,introduce_bruno,"Yay! Let me introduce you to Bruno, the mindfulness master! He’s great at helping you relax and manage stress. You're going to love him!",791,10,9
+That sounds wonderful! I can't wait to meet Bruno!,call_bruno,"Here comes Bruno, the wise bear! He’s ready to help you unwind and find your calm. Enjoy your time together!",845,10,10

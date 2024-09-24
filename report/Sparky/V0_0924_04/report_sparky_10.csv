@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm struggling with some difficult study material and feeling frustrated. What can I do to overcome it?,ask_more,"Are you looking for help with time management to tackle the material, or do you need to take a breather to relax first? Let's get you sorted!",550,8,9
+I think I need help with time management to tackle the material.,introduce_bizy,I've got just the bee for you! Bizy specializes in procrastination and time management—ready to meet her?,605,10,9
+"Yes, meeting Bizy sounds great! I would love to get some tips on procrastination and time management from her.",call_bizy,Buzzing into action! Bizy is here to help you conquer that procrastination and whip your time management into shape—let's get started!,676,8,9

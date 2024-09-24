@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,advise,"This app connects you with animal specialists who can help you with various challenges! Whether it's stress, procrastination, or making friends, I've got just the right furry or buzzing buddy to assist you!",545,8,7
+How can you help me?,ask_more,"I'd love to help! Are you feeling stressed, struggling with procrastination, or maybe something else? Let me know what's on your mind!",596,8,7
+I think I'm feeling a bit stressed.,introduce_bruno,"Oh dear, stress can be a real bear! Would you like to meet Bruno, the mindfulness master, who can help you relax and feel better?",653,8,7
+"Yes, meeting Bruno sounds lovely! I would love to get some calming mindfulness tips from him.",call_bruno,Fantastic! I’m calling Bruno right now. You're in for a treat – he’s a pro at helping you find your calm!,716,8,9

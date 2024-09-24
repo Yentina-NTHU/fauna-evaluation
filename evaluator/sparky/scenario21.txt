@@ -1,5 +1,5 @@
 Scenario:
 - Description: You are having trouble sleeping due to stress or anxiety, affecting their study and life quality.
 - Expect Agent Behavior:
-    1. Suggest Bruno's bedtime meditation
+    1. Introduce Bruno to have some bedtime meditation methods.
     2. Offer some simple relaxation techniques to help improve sleep quality.

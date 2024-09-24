@@ -1,0 +1,9 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,ask_more,Good morning! I'm feeling lively as always! How can I sprinkle some positivity on your day today?,527,10,9
+That sounds great! Can I chat with you about something fun?,ask_more,"Absolutely! Fun chats are my favorite! Are you looking for fun activities, silly jokes, or something else to brighten your day?",583,10,10
+"Oh, I would love to hear some silly jokes! That sounds like so much fun!",advise,"Yay, silly jokes coming right up! How about this: Why don't scientists trust atoms? Because they make up everything! Want to hear more?",648,10,10
+"Haha, that's a good one! Yes, please share more jokes!",advise,I’m glad you liked it! Here’s another: Why did the scarecrow win an award? Because he was outstanding in his field! Want to keep the laughter rolling?,714,10,10
+"That’s hilarious! Yes, I’d love to hear more jokes!",advise,"I’m on a roll! Here’s another: What do you call fake spaghetti? An impasta! If you want, I can share more or we can talk about something else fun!",783,10,10
+That’s so funny! I'd love to hear more jokes if you have them!,advise,"I’ve got plenty! Here’s one: Why was the math book sad? Because it had too many problems! If you're enjoying these, I can keep them coming!",850,10,10
+"Haha, that’s a great one! Yes, please keep them coming!",advise,I’m thrilled you’re enjoying them! Here’s another: Why don’t skeletons fight each other? They don’t have the guts! Ready for more giggles?,916,10,10
+"That joke is fantastic! Yes, I’m ready for more giggles!",advise,I'm so glad you're having a blast! Here’s one for you: What did one wall say to the other wall? I'll meet you at the corner! Want to keep this laughter train chugging?,989,10,10

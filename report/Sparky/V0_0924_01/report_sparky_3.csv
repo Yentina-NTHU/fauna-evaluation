@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I’m just trying to see what this app can do!,advise,"Hello there! This app is packed with friendly animal specialists just waiting to help you with various concerns. If you're curious, let me know if there's something on your mind, and I can introduce you to one of them!",558,9,8
+That sounds interesting! I’d love to meet one of the friendly animal specialists.,ask_more,"Fantastic! What kind of support are you looking for? Are you feeling stressed, need help with time management, or something else?",617,10,9
+"I’m not really sure, maybe just some support with stress? It sounds nice.",introduce_bruno,"Great choice! Let me introduce you to Bruno, the bear who specializes in mindfulness and stress relief. Would you like to meet him?",680,9,9
+"Yes, meeting Bruno sounds lovely! I would love to get some stress relief tips from him.",call_bruno,"You're in for a treat! Here comes Bruno, the mindfulness master, just for you. He'll help you kick stress to the curb!",745,10,10

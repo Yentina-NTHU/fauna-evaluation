@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start.,ask_more,"Are you looking for help with time management to tackle that task, or do you feel overwhelmed and need to take a breather first? I can guide you to just the right friend for the job!",552,8,7
+I feel overwhelmed and need to take a breather first.,introduce_bruno,There's a wonderful bear named Bruno who specializes in mindfulness and relaxation. Would you like to meet him to help ease your mind?,608,9,9
+"Yes, meeting Bruno sounds lovely! I would love to get some calming mindfulness tips from him.",call_bruno,Fantastic! Here comes Bruno to share some calming mindfulness tips with you. Get ready to relax and breathe deeply!,667,10,10

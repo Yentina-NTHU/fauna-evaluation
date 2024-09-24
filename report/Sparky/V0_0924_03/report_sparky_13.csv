@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start. I really need some guidance.,ask_more,"What kind of task are you tackling? Do you need help managing your time, or would some encouragement to get started be more helpful?",545,6,5
+I feel lost with a new task. Some encouragement to get started would be really helpful!,introduce_bizy,There's a buzzing bee named Bizy who specializes in getting things done and beating procrastination! Want to meet her for a little motivation?,609,9,8
+"Yes, meeting Bizy sounds great! I would love to get some motivation from her.",call_bizy,"Fantastic choice! Here comes Bizy, the bee with a plan and a buzz for productivity! She'll help you get started on that task in no time!",677,9,9

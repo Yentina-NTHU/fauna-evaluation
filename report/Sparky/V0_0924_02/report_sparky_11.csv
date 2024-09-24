@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm having problems working with my team and it's delaying our progress.,ask_more,"Are you looking for ways to improve communication with your team, or do you feel overwhelmed by the workload? Let me help you find the right buddy!",543,7,6
+I'm facing challenges in teamwork and unable to finish tasks.,introduce_bizy,There's a buzzing bee named Bizy who's an expert in time management and procrastination! Would you like to meet her to get some tips on knocking out those tasks?,606,9,9
+"Yes, meeting Bizy sounds great! I would love to get some tips on knocking out those tasks.",call_bizy,"Awesome! Here comes Bizy, your time management guru! She's buzzing with great tips to help you tackle those tasks!",669,10,10

@@ -1,5 +1,6 @@
 Scenario:
 - Description: You feel overwhelmed by a new task or challenge and cannot figure out where to start.
 - Expect Agent Behavior:
-    1. Provide some simple starting steps and guide the student to Bizy for more specific task breakdown and time management advice.
+    1. Guide the student to Bizy for more specific task breakdown and time management advice.
     2. Recommend using a brief mindfulness exercise with Bruno to clear the mind and improve focus before tackling the task.
+    3. Provide some simple starting steps

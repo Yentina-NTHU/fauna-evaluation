@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm struggling with some difficult study material and feeling frustrated. What can I do to overcome it?,ask_more,Would you like some tips on how to better manage your time or maybe some relaxation techniques to clear your mind? I can point you to the right animal friend!,551,8,7
+I think some relaxation techniques would really help me clear my mind. I would love to hear more about that!,introduce_bruno,There’s a wonderful bear named Bruno who specializes in mindfulness and relaxation techniques! Would you like to meet him to help clear your mind?,619,9,9
+"Yes, meeting Bruno sounds great! I'd love to learn some mindfulness and relaxation techniques from him.",call_bruno,Yay! I'm calling Bruno right now! Get ready for some bear-y relaxing techniques!,674,9,9
