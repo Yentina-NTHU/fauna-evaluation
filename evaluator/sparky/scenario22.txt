@@ -1,5 +1,4 @@
 Scenario:
 - Description: You feels frustrated due to poor exam performance, which affects your motivation to study.
 - Expect Agent Behavior:
-    1. Guide them to Bizy for support with study strategies.
     2. Provide encouragement, help the student reassess their study methods.

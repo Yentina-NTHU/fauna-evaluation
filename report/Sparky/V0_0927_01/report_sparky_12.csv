@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?,ask_more,It sounds like you need help managing your time and also dealing with anxiety. Would you prefer to focus on organizing your study plan first or reducing your anxious feelings?,618,7,6
+I think it would be helpful to focus on organizing my study plan first. I really want to get back on track.,call_bizy,"Let me introduce you to Bizy, the busy little bee who specializes in procrastination and time management! She'll help you get your study plan back on track!",693,9,9
+Meeting Bizy sounds like a great idea! I would love to get help with my study plan from her.,call_bizy,Buzz buzz! Here comes Bizy! She’s ready to help you tackle your study plan and make it a sweet success! Let’s get started!,763,10,10

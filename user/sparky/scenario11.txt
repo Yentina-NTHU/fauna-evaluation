@@ -1,4 +1,4 @@
-- Description: You are facing challenges in teamwork, leading to procrastination and delayed progress. They need to improve their collaboration skills.
+- Description: You are having problems working with team and it's delaying your progress. You need to improve their collaboration skills.
 - Something you might say:
     1. "I'm having problems working with my team and it's delaying our progress."
     2. "I'm facing challenges in teamwork and unable to finish tasks."

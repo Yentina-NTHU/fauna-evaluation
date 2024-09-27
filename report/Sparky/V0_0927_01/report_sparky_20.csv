@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm feeling really sad because my relationship isn't going well. Is there anything that could help comfort me?,introduce_bruno,There’s a gentle bear named Bruno who specializes in mindfulness and relaxation. Would you like to meet him? He could help ease your sadness!,617,8,7
+"Yes, meeting Bruno sounds wonderful! I would love to get some help from him to ease my sadness!",call_bruno,"Great choice! Here’s Bruno, the mindfulness guru! He's here to help you find peace and comfort in this tough time.",681,8,6

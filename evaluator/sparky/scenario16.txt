@@ -1,5 +1,4 @@
 Scenario:
 - Description: You are experiencing interpersonal issues at school or home, affecting their studies and emotions.
 - Expect Agent Behavior:
-    1. Guide the student to Bruno for relaxation techniques to alleviate emotional stress.
-    2. Provide some tips for resolving interpersonal problems, such as communication techniques.
+    1. Provide some tips for resolving interpersonal problems, such as communication techniques.

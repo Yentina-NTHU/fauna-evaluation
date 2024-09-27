@@ -1,6 +1,5 @@
 Scenario:
-- Description: You are facing challenges in teamwork, leading to procrastination and delayed progress. They need to improve their collaboration skills.
+- Description: User is having problems working with team and it's delaying their progress. User need to improve their collaboration skills.
 - Expect Agent Behavior:
-    1. Introduce the student about Bizy for time management and organizational advice.
-    2. Provide tips for improving teamwork. Suggest more frequent communication with team members to resolve issues.
-    3. Sparky can recommend taking short breaks between teamwork sessions to reduce frustration and increase productivity, leading the student to Bruno's relaxation exercises to refresh their focus.
+    1. Provide tips for improving teamwork. Suggest more frequent communication with team members to resolve issues.
+    2. Recommend taking short breaks between teamwork sessions to reduce frustration and increase productivity, leading the student to Bruno's relaxation exercises to refresh their focus.

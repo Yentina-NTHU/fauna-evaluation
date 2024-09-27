@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I’ve been really stressed lately, the exam is coming up, and I can’t focus on studying. Is there a quick way to relax?",introduce_bruno,"Oh dear, stress can be such a pesky little critter! Let me introduce you to Bruno, a mindful bear who knows just how to help you relax and focus on your studies.",635,9,8
+"Yes, meeting Bruno sounds wonderful! I would love to learn how he can help me relax and focus.",call_bruno,Fantastic choice! Bruno is ready to share his wisdom on mindfulness and help you find that inner peace. Let’s dive into a relaxing session with him!,704,9,9

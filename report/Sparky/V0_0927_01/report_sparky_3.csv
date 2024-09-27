@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I'm just looking to try out this app and see what it can do!,advise,"Welcome! I'm excited you're here! If you have any worries or issues, just let me know, and I'll help you find the right animal friend!",614,7,6
+"That sounds great! I don't really have any specific worries right now, but I love the idea of finding an animal friend. Who do you suggest?",ask_more,"How about we explore what might be on your mind? Are you looking for someone to help you relax, or maybe tackle some procrastination?",689,8,9
+"I'm not sure, but I could definitely use some help relaxing. What do you suggest for that?",introduce_bruno,"There's a meditation master named Bruno, a wise bear who can help you relax and reduce stress. Would you like to meet him?",754,9,9
+"Yes, meeting Bruno sounds wonderful! I would love to get some relaxation tips from him.",call_bruno,"Fantastic! Here comes Bruno, the mindfulness specialist! He'll help you unwind and find your inner calm!",811,10,10

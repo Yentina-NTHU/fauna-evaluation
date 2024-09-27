@@ -2,6 +2,5 @@ Scenario:
 - Description: You haven't completed their study plan on time and feels anxious and defeated.
 - Expect Agent Behavior:
     1. Guide them to Bizy for time management skills.
-    2. Suggest reevaluating and adjusting the study plan 
-    3. Suggest using positive self-talk to reduce feelings of defeat and foster a more optimistic outlook.
-    4. Advise the student to use relaxation techniques with Bruno to manage anxiety and improve focus before adjusting their study plan.
+    2. Suggest using positive self-talk to reduce feelings of defeat and foster a more optimistic outlook.
+    3. Advise the student to use relaxation techniques with Bruno to manage anxiety and improve focus before adjusting their study plan.
