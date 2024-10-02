@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I'm dissatisfied with my appearance, and it's making me anxious.",introduce_bruno,There's a wonderful bear named Bruno who specializes in mindfulness and relaxation. Would you like to meet him to help ease your anxiety?,606,9,9
+"No, I don't really think a bear named Bruno is going to help with my anxiety.",ask_more,"I understand, it's totally okay! Would you prefer to talk about ways to boost your self-esteem, or would you like some relaxation techniques first?",670,9,9

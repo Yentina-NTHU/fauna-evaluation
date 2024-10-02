@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been having problems with my friends at school, and it's stressing me out.",introduce_bruno,There's a calming bear named Bruno who's great at easing stress and anxiety. Would you like to meet him and find some zen in the chaos?,613,5,4
+"No, I don't see how chatting with a bear is going to help me with my friend problems.",ask_more,"I totally get that! Are you looking to relax and reduce stress first, or do you want to focus on social strategies to handle your friend issues?",680,9,8

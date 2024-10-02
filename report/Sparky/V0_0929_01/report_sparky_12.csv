@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?,ask_more,"It sounds like you're trying to catch up, and that can be stressful! Are you looking for help with managing your time better, or do you want to focus on relaxing your mind first?",624,8,8
+I don't need time management tips. That sounds boring. I want to find a way to feel less anxious about this.,introduce_bruno,I’ve got just the friend for you! There’s a mindfulness master named Bruno. Would you like to meet him? He can help you relax and ease your anxiety.,701,8,9
+"No thanks, I don't want to meet anyone like Bruno. I just want to deal with this anxiety myself.",advise,"That's totally understandable! Try taking a few deep breaths or going for a walk to clear your mind. Remember, it's okay to take your time!",769,9,8

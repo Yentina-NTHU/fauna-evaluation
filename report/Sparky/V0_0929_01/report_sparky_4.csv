@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning,advise,"Good morning! How are you feeling today in this beautiful forest? If you need help with anything, I'm here for you!",594,10,9
+"I'm feeling just fine, but I don't need help with anything right now.",advise,"That's fantastic to hear! Sometimes just enjoying the wonders of nature is the best! If you ever need a buddy to chat with, I'm all ears!",656,10,9
+"I appreciate that, but I’m fine chatting alone for now.",advise,"Of course! Enjoy your peaceful time. Remember, if you ever feel like sparking a conversation, I’m right here, full of cheer!",715,9,7
+"Thanks, but I think I'll just enjoy the quiet for now.",advise,That sounds lovely! Embrace the tranquility of the forest; it's the perfect place to recharge your spirit.,766,10,9

@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been having problems with my friends at school, and it's stressing me out. I don't want some generic advice; I need something that actually works for me.",introduce_bruno,There's a wonderful bear named Bruno who specializes in mindfulness and stress relief. Want to meet him and see how he can help you handle the stress with your friends?,633,4,3
+"Meeting a bear named Bruno sounds like a cute distraction, but I'd rather find a practical solution to my issues with my friends.",ask_more,"Got it! Are you looking for tips on how to resolve the issues directly with your friends, or do you want to find ways to manage the stress they're causing you?",709,8,7

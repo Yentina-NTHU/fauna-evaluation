@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What's up?,advise,"Hey there, friend! If you're looking for something fun to do or need a pick-me-up, I'd love to hear what's on your mind!",599,8,7
+I’m so frustrated.,ask_more,"Oh no! Frustration can be tough to deal with. Are you feeling stuck on a specific task, or is it something else that's bothering you?",652,9,8
+"No, it's not just a task, I just feel like everything's annoying right now.",introduce_bruno,I totally get that feeling! There’s a bear named Bruno who specializes in mindfulness and reducing stress. Want to meet him to help ease that frustration?,719,9,8
+"No thanks, I don't need a bear to help me.",introduce_bizy,"No worries at all! If a bear isn't your style, maybe you'd like to meet Bizy, the bee who specializes in procrastination and time management. Sometimes that can lighten the load too!",789,7,5

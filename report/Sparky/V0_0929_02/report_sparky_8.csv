@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I’m trying to find some solid ways to calm down and focus, but I'm skeptical. What do you have that might actually work for me?",introduce_bruno,There's a wise bear named Bruno who specializes in mindfulness! Want to meet him? He might just surprise you with effective techniques to calm down and focus!,628,7,6
+"Meeting a wise bear sounds a bit odd, but I guess I could be open to it if he has real techniques to help me calm me down.",call_bruno,That's the spirit! Let's get you connected with Bruno. He's got some great techniques to help you relax and find that focus.,701,8,7

@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,advise,"This app introduces you to friendly animal specialists who can help you tackle various challenges like stress, procrastination, or focus. Just share your concerns, and I'll guide you to the right furry or buzzing friend!",614,8,8
+How can you help me?,ask_more,"I’d love to help! Can you share what you're currently facing, like stress, procrastination, or focusing on tasks? I’ll connect you with the perfect animal friend!",672,8,7
+"No, I don't think I want to share my problems just yet.",advise,"That's absolutely okay! Whenever you're ready, just know I'm here to lend a paw or wing, and we can explore ways to brighten your day!",732,8,7

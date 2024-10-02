@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust? I mean, I don't want to follow someone else's plan yet.",ask_more,"It sounds like you're looking for a way to manage your feelings and your schedule. Would you like help with getting organized, or do you feel a bit overwhelmed and need to relax first?",636,5,6
+I definitely need to relax first. Getting organized can wait. But I’m not sure what that looks like for me right now.,introduce_bruno,There's a wonderful bear named Bruno who specializes in mindfulness and relaxation techniques! Would you like to meet him to help you unwind?,706,9,9
+"Sure, why not? Meeting Bruno sounds interesting for some mindfulness and relaxation tips.",call_bruno,"Great choice! I'm calling Bruno now, and he's going to help you melt away that anxiety like sunshine on a polar bear's nose!",767,8,9

@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I'm feeling really sad because my relationship isn't going well. Comfort? Nah, I don't want any generic suggestions. Can you just listen?",advise,"I'm here for you! Sometimes just talking about it can help, so feel free to share what's on your mind!",617,8,9
+"I appreciate the offer, but talking doesn't always change anything. What's the point? Can you give me something more useful?",introduce_bruno,"I totally get it! How about meeting Bruno, our mindfulness bear? He can guide you in finding some inner peace and clarity during tough times!",689,6,5
+No thanks! I don't need a bear to tell me to chill out. I'm good.,ask_more,"I see you're handling things your way! Are you looking for help with stress management, or do you want to dive into the nitty-gritty of the relationship?",757,6,5

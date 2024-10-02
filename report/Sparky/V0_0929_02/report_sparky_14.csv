@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm studying in a noisy environment and it's hard to focus. Suggestions like calming music or white noise don't always work for me. What else do you have?,introduce_bruno,There’s a lovely bear named Bruno who specializes in mindfulness! Would you like to meet him? He can help you find focus in that noisy place!,630,7,6
+"Meeting Bruno sounds like a gimmick. I appreciate the suggestion, but I need something more practical to help me focus.",advise,"When you can't control your environment, try using noise-canceling headphones or creating a small study nook with soft lighting. Also, taking regular breaks to stretch can refresh your mind!",707,9,9

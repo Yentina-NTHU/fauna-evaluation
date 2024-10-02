@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start.,ask_more,Are you looking for help managing your time effectively or would you prefer some guidance on how to approach the task calmly? I can connect you with the right friend!,611,8,7
+"No, I don't think I need help managing my time or guidance. I just feel lost with this new task.",advise,Feeling lost is completely normal when facing new tasks! Try breaking it down into smaller steps and tackling them one at a time. You’ve got this!,681,7,6
+"No, breaking it down doesn't really help me. I appreciate the optimism, but I'm still unsure about where to start.",ask_more,Got it! How about we explore if relaxation or some organization help would be more useful for you? I can introduce you to some special forest friends!,752,6,5

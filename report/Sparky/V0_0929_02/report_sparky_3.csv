@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ What’s up?,advise,"Hello there! I'm all a-buzz in the forest, ready to help! What's on your mind today?",595,9,8
+I'm so frustrated. Can you even help with that?,introduce_bruno,"Oh no, frustration is a bothersome feeling! There's a friendly bear named Bruno who specializes in mindfulness and can help you relax and find your calm. Want to meet him?",660,8,7
+"Meeting a bear isn't really my thing. I'll pass, thanks!",ask_more,I totally get it! How about we explore different options? Do you want help reducing frustration or maybe finding ways to manage your time better?,718,9,8
