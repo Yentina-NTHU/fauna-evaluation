@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I’m just trying to see what this app can do!,explore,Hey there! What feelings or challenges are you curious about? I'm here to help!,682,9,8
+"I’m feeling a bit frustrated, actually.",explore,"I get that! What’s frustrating you, and how is it affecting your day-to-day activities?",728,9,8
+"I guess I just feel overwhelmed with everything, and it makes it hard to focus on tasks.",explore,That sounds tough! Would you like to focus on relaxation techniques or time management strategies to help you out?,785,10,9
+Maybe some relaxation techniques would be nice!,introduce_bruno,Great choice! I know a calming turtle named Bruno who specializes in mindfulness and relaxation. Want to meet him?,834,9,9
+"Yes, meeting Bruno sounds wonderful! I would love some relaxation tips from him.",guide_to_bruno,Awesome! Let’s hop over to Bruno. He’s ready to help you find some peace and calm!,890,9,9

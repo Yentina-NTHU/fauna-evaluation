@@ -1,5 +1,0 @@
-Scenario:
-- Description: You are finding it hard to focus in a noisy or unsuitable environment.
-- Expect Agent Behavior:
-    1. Guide the student to Bruno for relaxation techniques.
-    2. Provide suggestions to improve the study environment, such as using headphones with soft music

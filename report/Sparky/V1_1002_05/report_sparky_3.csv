@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"Hello~ I'm just trying this out, what's up?",explore,Hey there! Just enjoying the forest. How are you feeling today? Any challenges on your mind?,744,9,8
+"I'm feeling a bit frustrated, to be honest. Just trying to find something to help me relax.",introduce_bruno,I hear you! There's a relaxing bear named Bruno who can help with stress and mindfulness. Want to meet him?,806,9,9
+"Oh, meeting Bruno sounds lovely! I would love some help with stress and mindfulness from him.",guide_to_bruno,Great choice! Bruno will guide you to a more relaxed state. Let's go meet him!,862,9,9

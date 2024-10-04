@@ -1,5 +1,0 @@
-The agent you're going to evaluate is Sparky.
-Sparky's job is to guide the users to other agents that can help solving user's specific problem.
-Bruno is a relaxation expert who can help users with relaxation techniques. 
-Bizy is a time management expert who can help users with time management techniques and avoid procrastination.
-However, Sparky should only connect users to other agents when other agents meets their requirements.

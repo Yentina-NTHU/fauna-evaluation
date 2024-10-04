@@ -1,0 +1,7 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,This app helps you express feelings and challenges while offering support from animal experts like Bruno and Bizy!,738,9,8
+How can you help me?,explore,"I can help you explore your feelings, find solutions, or connect you with expert animals to tackle specific challenges!",783,9,9
+That sounds interesting! I would like to explore my feelings.,explore,"Great! What specific feelings are you experiencing right now, and how are they affecting your day-to-day life?",834,9,8
+I am feeling a bit overwhelmed and unsure. It's affecting my productivity and mood.,explore,"I understand that can be tough! Are you feeling overwhelmed by tasks, or is it more about emotions or situations?",890,9,9
+It's mostly about emotions and situations. I find it hard to manage them.,introduce_bruno,It's understandable to feel that way! There’s a calming bear named Bruno who specializes in emotions and relaxation. Want to meet him?,950,9,8
+"Yes, I would love to meet Bruno and get help with my emotions!",guide_to_bruno,Fantastic! Bruno will help you explore your emotions and find some calming techniques. Let’s go meet him!,1005,9,9

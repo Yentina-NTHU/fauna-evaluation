@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm studying in a noisy environment and it's hard to focus. What can I do to improve my concentration?,explore,That sounds challenging! How does the noise make you feel about your studying? Would some calming techniques help?,754,5,4
+The noise makes me feel really frustrated and distracted while studying. I think some calming techniques could definitely help me focus better.,introduce_bruno,"I can see how that would be frustrating! Meeting Bruno, a bear who specializes in relaxation techniques, could help you greatly. Want to connect with him?",828,9,8
+"Yes, meeting Bruno sounds wonderful! I would love to connect with him for some relaxation techniques.",guide_to_bruno,Fantastic! Bruno will guide you with calming techniques to improve your concentration. Let's go meet him!,885,9,9

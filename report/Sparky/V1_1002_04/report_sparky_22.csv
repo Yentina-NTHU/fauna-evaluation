@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I didn't do well on my exam, and it's making me feel really discouraged. How can I regain my confidence?",explore,"I’m sorry to hear that! What specific feelings are you struggling with, and how has it affected your confidence?",738,5,4
+"I feel really discouraged and frustrated. I worry that I might not be good enough, and it's hard to believe in myself right now.",advise,"You’re definitely not alone! Remember, setbacks happen to everyone. Focus on small goals to rebuild confidence!",803,9,9
+That sounds like a great idea! I’m willing to set small goals to help rebuild my confidence. What kind of small goals do you suggest?,explore,"That’s fantastic! What subjects or skills do you want to focus on? Maybe we can brainstorm specific, manageable goals together!",874,9,9
+I think I need to focus on my study skills and time management. Maybe we can come up with some specific goals for that!,introduce_bizy,"Great focus! Bizy, the time management expert bee, can help you set specific study goals. Want to meet her?",944,8,7
+"Yes, I would love to meet Bizy and get some tips on setting specific study goals!",guide_to_bizy,Yay! Bizy will help you organize your study time and set achievable goals. Let's buzz over to her!,1005,8,9

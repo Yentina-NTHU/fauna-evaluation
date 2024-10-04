@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Can it really generate meditation content automatically?,explore,That’s interesting! How do you feel about meditation? Would it help you with stress or focus?,679,3,2
+I think meditation could really help me with stress and focus. I've heard great things about it!,introduce_bruno,That’s wonderful! There's a mindful bear named Bruno who’s an expert at meditation. Want to meet him?,739,7,8
+"Yes, meeting Bruno sounds great! I would love to learn from him.",guide_to_bruno,Fantastic! Let’s go meet Bruno and explore the calming world of meditation together!,789,8,9

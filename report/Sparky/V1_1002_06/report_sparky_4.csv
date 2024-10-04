@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,explore,Good morning! I'm feeling lively as always. How about you? What's on your mind today?,738,10,10
+I'm glad to hear you're feeling lively! I just wanted to chat with you and see how your day is going.,explore,Thanks for the thoughtful chat! Is there anything you’d like to share or discuss that's been on your mind?,800,10,9
+I appreciate the offer! I'd love to hear what you have to share or discuss.,explore,I'm here to help you with any feelings or challenges you're facing. Anything specific you're dealing with today?,854,9,8
+"Thank you for your kindness! I don't have any specific challenges today, but I'm open to discussing anything you think might be helpful.",explore,That's great to hear! How about some tips for staying positive and productive? What do you think?,917,10,9
+That sounds wonderful! I'd love to hear some tips for staying positive and productive.,explore,"Awesome! One tip is to set small, achievable goals each day. What activities do you enjoy that could boost your positivity?",975,10,10
+"Setting small, achievable goals sounds like a great idea! I enjoy chatting with friends and listening to music, which always boosts my positivity.",explore,Those are lovely activities! Maybe plan some time to chat with friends or create a music playlist each week?,1040,10,10
+That sounds like a wonderful plan! I would be happy to set aside time to chat with friends and make a music playlist each week.,explore,Yay! It sounds like you have a great plan! How do you feel about incorporating these into your weekly routine?,1108,10,10

@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,"This app helps you express feelings and challenges, offering support and guidance to boost productivity!",715,8,7
+How can you help me?,explore,I can help you explore your feelings and offer advice or connect you to experts for support!,756,8,7
+That sounds great! I would like some advice on how to manage stress.,introduce_bruno,I know a fabulous bear named Bruno who specializes in relaxation and stress management! Want to meet him?,810,8,7
+"Yes, meeting Bruno sounds wonderful! I would love to get some tips on relaxation and stress management from him.",guide_to_bruno,Fantastic choice! Bruno will share some great relaxation tips to help ease your stress. Let’s go see him!,873,9,9

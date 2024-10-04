@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,"This app helps you express feelings, tackle challenges, and find support from animal experts to boost productivity!",738,9,8
+How can you help me?,explore,"I can listen to your concerns, provide encouragement, and connect you with helpful animal experts if needed!",781,9,9
+That sounds great! I would appreciate some encouragement.,explore,Of course! What specific challenges are you facing that you’d like some encouragement for?,825,10,9
+"I'm not sure yet, but I think I could use encouragement for just staying motivated.",explore,Staying motivated can be tricky! What are some tasks or goals you're currently working on that need a motivational boost?,882,9,9
+"I don't have any specific tasks in mind, but I just want to feel more motivated overall.",explore,"It's totally normal to seek overall motivation! How about setting small, fun goals for yourself to spark that excitement?",940,9,8
+That sounds like a good idea! I would be open to setting some small goals.,introduce_bizy,That’s fantastic! Bizy the bee is a pro at setting goals and boosting motivation. Want to meet her?,999,9,8
+"Yes, I would love to meet Bizy the bee and learn how to set goals!",guide_to_bizy,Awesome! Bizy will help you with goal setting and get that motivation buzzing! Let's go see her!,1057,9,9

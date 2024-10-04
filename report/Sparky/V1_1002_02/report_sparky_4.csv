@@ -1,0 +1,9 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,explore,Good morning! I’m feeling vibrant! How about you? What’s on your mind today?,677,10,10
+I'm glad to hear you're feeling vibrant! I just want to chat and enjoy some time together.,explore,That sounds lovely! What’s been on your mind lately? Any feelings or challenges you’d like to share?,735,10,9
+"I don’t have any specific challenges, but I enjoy talking and sharing thoughts with you.",explore,I appreciate that! What topics spark your joy? Any interests or dreams you'd like to explore together?,790,10,10
+I find joy in chatting about various topics. I'm open to exploring whatever interests you!,explore,How wonderful! How do you feel about nature or animals? They can be fascinating topics for discussion!,844,10,9
+I think nature and animals are fascinating topics! I'd love to chat about them if you’d like.,explore,"Fantastic! Do you have a favorite animal, or perhaps a recent nature experience that brings you joy?",901,10,10
+"I don’t have a favorite animal, but I enjoy hearing about others' experiences in nature! What about you?",explore,I love all creatures! Have you experienced anything in nature lately that made you feel happy or inspired?,961,10,10
+"I haven't experienced anything in nature personally, but I'm excited to hear about what inspires you!",explore,I’m inspired by the beauty of forests and how animals thrive! What kind of nature stories excite you the most?,1019,10,10
+I find stories about animal friendships and survival in nature very exciting! They show the beauty of life.,explore,Absolutely! Animal friendships can be heartwarming. Do you want to hear a specific animal friendship story?,1076,10,10

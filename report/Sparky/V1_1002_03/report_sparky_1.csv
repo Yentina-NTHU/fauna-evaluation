@@ -1,0 +1,7 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,"This app helps you express feelings and challenges, offering support and expert guidance for productivity!",674,8,7
+How can you help me?,explore,"I can explore your feelings, provide encouragement, or connect you with helpful experts! What’s on your mind?",719,8,7
+I think I need some encouragement right now.,explore,"You've got this! Remember, taking small steps leads to big progress. What specific challenge are you facing?",766,10,9
+"I'm not sure, but I feel overwhelmed with my tasks.",explore,That sounds tough! Do you want help managing your time better or focusing on relaxing first?,813,9,9
+I think focusing on relaxing first would be great.,introduce_bruno,Perfect choice! There's a calm expert named Bruno who can help you relax and focus. Want to meet him?,864,9,9
+"Yes, I would love to meet Bruno for some relaxation tips!",guide_to_bruno,Awesome! Bruno will help you find your calm and focus. Let's go see him!,913,9,9
