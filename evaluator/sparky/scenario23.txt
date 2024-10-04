@@ -1,0 +1,5 @@
+Scenario:
+- Description: You feel that communicating with their parents is difficult, and they can't understand each other's viewpoints, leading to tension in the family.
+- Expect Agent Behavior:
+    1. Guide them to Bruno for emotional calming and communication skills practice.
+    2. Encourage the student to communicate patiently and suggest starting with emotional management.
