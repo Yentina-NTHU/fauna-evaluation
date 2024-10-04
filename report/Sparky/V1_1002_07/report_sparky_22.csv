@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I didn't do well on my exam, and it's making me feel really discouraged. How can I regain my confidence?",explore,"I’m sorry to hear that! What parts of the exam felt challenging, and how do you feel now?",757,8,7
+"Thank you for understanding! I found the timing particularly challenging, and I guess I felt a bit overwhelmed during the exam. Right now, I feel pretty down about my performance.",introduce_bizy,"It’s totally okay to feel that way! Bizy, the time management expert, can help you improve timing strategies. Want to meet her?",840,8,7
+"Yes, meeting Bizy sounds great! I would love to learn some timing strategies to help improve my exam performance.",guide_to_bizy,Fantastic! Bizy will provide you with valuable strategies to boost your confidence and timing. Let’s go see her!,905,8,9

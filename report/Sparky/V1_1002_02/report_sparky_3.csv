@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I'm just here to try things out. What's up?,explore,Hey there! Just enjoying the forest vibes. How are you feeling today? Any challenges on your mind?,685,9,8
+"I'm feeling a bit frustrated, but I’m open to suggestions. What do you recommend?",explore,Frustration can be tough! What’s causing that feeling? Is it affecting your productivity or daily tasks?,742,9,8
+"It's just a mix of things, I guess. I’m not sure how it’s affecting my productivity. What do you think I should do about it?",introduce_bruno,I get that! There's a calm fox named Bruno who specializes in mindfulness and stress management. Would you like to meet him?,817,9,8
+"Yes, meeting Bruno sounds lovely! I would love to learn some mindfulness tips from him.",guide_to_bruno,Great choice! Bruno will share amazing mindfulness tips to help you find calm. Let’s go meet him!,875,9,9

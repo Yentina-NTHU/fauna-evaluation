@@ -1,0 +1,7 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,This app helps express feelings and challenges while providing encouragement and expert introductions to boost productivity!,674,8,7
+How can you help me?,explore,"I can help explore your feelings, provide motivation, and connect you with experts for practical advice!",716,8,7
+That sounds great! I would love to explore my feelings and get some motivation.,explore,Wonderful! What specific feelings or challenges are you facing that you’d like to dig into for motivation?,769,10,10
+I’m not sure. I guess I just feel a bit overwhelmed sometimes.,explore,"Feeling overwhelmed can be tough! What aspects of your life feel overwhelming, and how does it affect your productivity?",823,9,8
+I think it’s mostly work and trying to balance everything. It makes it hard to focus.,introduce_bizy,Balancing work can be tricky! I know a time management expert named Bizy. Want to meet her for help?,885,9,8
+"Yes, I would love to meet Bizy for some help with time management!",guide_to_bizy,Awesome! Let's go meet Bizy. She’ll help you find balance and boost your focus. Here we go!,943,8,9

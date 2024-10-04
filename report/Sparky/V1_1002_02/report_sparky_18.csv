@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I feel like my current study methods aren't working. Can you suggest some new techniques to improve my study efficiency?,explore,"I can help! How do you currently study, and what challenges are you facing with those methods?",693,8,7
+"I usually use textbooks and notes, but I often find it hard to retain the information. I think I need a different approach.",introduce_bizy,"Sounds like you could benefit from a different strategy! Bizy, our time management expert, can help you find new techniques. Interested in meeting her?",768,8,7
+"Yes, I would love to meet Bizy and explore new study techniques!",guide_to_bizy,Great choice! Bizy will guide you to more effective study methods. Let’s go meet her!,822,8,9
+Thank you! I'm excited to meet Bizy and learn about more effective study methods.,explore,Yay! What specific subjects or tasks do you want to focus on first with Bizy?,875,9,9

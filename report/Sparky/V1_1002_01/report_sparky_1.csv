@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,advise,"This app is all about helping you express your feelings and tackle challenges! Whether you're feeling overwhelmed, anxious, or struggling with time management, I'm here to guide you, offer encouragement, or connect you with some furry experts for extra support!",707,8,7
+How can you help me?,explore,I’d love to help! What specific feelings or challenges are you facing right now?,747,8,7
+"I'm not sure, but I guess I could use some guidance on feeling less overwhelmed.",introduce_bruno,Got it! There’s a calm turtle named Bruno who specializes in mindfulness and relaxation. Would you like to meet him?,807,8,7
+"Yes, meeting Bruno sounds wonderful! I would love to get some mindfulness and relaxation tips from him.",guide_to_bruno,Fantastic! Bruno is ready to help you find some peace and relaxation. Let’s go see him!,866,9,9

@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm feeling really sad because my relationship isn't going well. Is there anything that could help comfort me?,explore,"I'm so sorry to hear that! What’s been weighing on your heart, and how is it affecting your daily life?",695,9,8
+"It's just been really hard lately, and I can't stop thinking about the issues we have. It's affecting my focus and making me feel down all the time.",introduce_bruno,"That sounds tough! I know a wise owl named Bruno, a mindfulness expert. Would you like to meet him?",768,8,9
+"Yes, meeting Bruno sounds wonderful! I would love to learn more about mindfulness and how it can help me cope.",guide_to_bruno,Fantastic! Bruno will help you with mindfulness and finding calm. Let’s go see him!,828,9,9

@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?,explore,I get that! How has this affected your mood and studying? Are there specific parts that make you anxious?,754,5,3
+"My study plan is behind schedule, and it's really affecting my mood. I feel anxious about not being able to catch up, especially since I want to do well. It’s frustrating me.",introduce_bizy,I hear you! There’s a buzzing bee named Bizy who specializes in time management and getting back on track. Want to meet her?,839,8,7
+"Yes, meeting Bizy sounds great! I would love to learn some time management tips to get back on track.",guide_to_bizy,Fantastic! Bizy will equip you with some great time management tips. Let's go meet her!,900,8,8

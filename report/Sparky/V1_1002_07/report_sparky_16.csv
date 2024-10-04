@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been having problems with my friends at school, and it's stressing me out.",explore,I'm sorry to hear that! How is this affecting your day-to-day life and studies?,746,6,5
+"It's been really tough. I can't concentrate on my studies, and I feel anxious all the time.",introduce_bruno,"It sounds overwhelming! You might benefit from Bruno, a friendly bear who helps with relaxation and stress relief. Want to meet him?",811,7,6
+"Yes, meeting Bruno sounds great! I'm looking forward to getting some relaxation tips from him.",guide_to_bruno,Awesome! Bruno is ready to help you find some peace and calm. Let’s go see him!,868,7,6

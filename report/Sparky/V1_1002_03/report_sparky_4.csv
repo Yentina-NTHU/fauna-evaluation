@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! Can I chat with you?,explore,Good morning! Absolutely! What’s on your mind today?,672,10,10
+How are you?,explore,I'm buzzing with energy! How about you? What feelings are you experiencing today?,709,10,10
+"I feel nice, thank you for asking!",explore,That’s wonderful to hear! What’s bringing you joy today?,748,10,10
+Can I chat with you about anything you find interesting?,explore,Sure! What topics spark your curiosity? Anything in particular you’d like to explore together?,794,10,10
+I'm curious about anything you want to share!,explore,Okay! How about exploring ways to boost productivity? What challenges are you facing?,836,8,7
+I'm open to whatever suggestions you have to boost productivity!,introduce_bizy,Great! There's a busy bee named Bizy who specializes in time management and productivity. Want to meet her?,888,9,8
+"Yes, meeting Bizy sounds delightful! I would love to learn about time management and productivity from her.",guide_to_bizy,Fantastic! Bizy will help you conquer time management and boost your productivity. Let’s go see her!,949,10,9

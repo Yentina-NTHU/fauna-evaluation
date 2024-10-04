@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been having problems with my friends at school, and it's stressing me out.",explore,"I'm sorry to hear that! What specifically is bothering you about your friends, and how is it affecting you?",750,8,7
+"I feel like my friends are excluding me from things, and it makes me feel really lonely and anxious. It's hard to concentrate on my studies when I'm feeling this way.",introduce_bruno,That sounds really tough! There's a wise bear named Bruno who can help you with stress. Want to meet him?,826,8,5
+"Yes, meeting Bruno sounds wonderful! I would love to get some help with my stress.",guide_to_bruno,Fantastic! Bruno will help you relax and handle that stress. Let’s go meet him!,881,7,7

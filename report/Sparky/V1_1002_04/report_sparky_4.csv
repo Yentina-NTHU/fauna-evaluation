@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,explore,Good morning! I'm just buzzing with energy! How about you? Any feelings or challenges on your mind today?,721,10,10
+"I'm feeling good, thank you for asking! I just wanted to chat with you.",explore,That's wonderful to hear! What’s been making you feel good lately? Any highlights you'd like to share?,776,10,9
+I really enjoy our conversations! They always make my day brighter.,explore,"Aww, that warms my forest spirit! What specific topics or feelings do you enjoy discussing most?",826,10,10
+I enjoy talking about anything really! I’m just happy to chat with you.,explore,I'm so glad to hear that! Is there anything on your mind you’d like to explore together?,879,10,10
+I'd love to explore anything you suggest! What do you think we should talk about?,explore,How about discussing ways to boost your creativity? Or maybe tips to stay motivated? What sounds fun?,933,9,9
+Both sound fun! I would love to hear your tips on boosting creativity!,advise,"Try changing your environment, brainstorming with friends, or keeping a creativity journal. Let your ideas flow!",985,10,9
+Those sound like great suggestions! I will definitely try changing my environment and keeping a creativity journal. Thank you!,explore,You're very welcome! I'm excited for you! How do you think changing your environment will spark your creativity?,1045,10,10

@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,"This app helps you express feelings, tackle challenges, and get advice from friendly forest experts!",737,9,8
+How can you help me?,explore,"I can help you manage feelings, boost productivity, or connect you with a helpful expert. What’s on your mind?",784,9,8
+I am looking to manage my feelings.,introduce_bruno,That’s great! There’s a wise bear named Bruno who specializes in relaxation and mindfulness. Want to meet him?,834,9,8
+"Yes, meeting Bruno sounds wonderful! I would love to learn from him.",guide_to_bruno,Awesome! Bruno will share some fantastic tips on managing feelings and relaxation. Let’s go see him!,888,9,9

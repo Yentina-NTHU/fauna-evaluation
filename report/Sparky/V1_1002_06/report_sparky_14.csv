@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm studying in a noisy environment and it's hard to focus. Can you help me find a way to concentrate better?,explore,Noisy environments can be distracting! How do you usually feel when you try to focus? Any techniques you’ve tried?,759,4,3
+I usually feel frustrated when I try to focus in a noisy environment. I haven't really tried any specific techniques yet. What do you suggest?,introduce_bruno,Frustration is tough! There's a calming bear named Bruno who specializes in relaxation techniques. Want to meet him?,829,8,7
+"Yes, meeting Bruno sounds great! I would love to learn some relaxation techniques from him.",guide_to_bruno,Fantastic! Bruno will help you find some peaceful relaxation techniques to conquer that noise. Let’s go see him!,888,10,10

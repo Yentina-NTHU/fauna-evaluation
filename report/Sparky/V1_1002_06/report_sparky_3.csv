@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ What's up?,explore,Hi there! I'm here to help you out. What's been on your mind lately?,734,8,8
+I’m so frustrated. I’m not really sure what to do about it.,explore,I hear you! Frustration can be really tough. Can you share what’s causing those feelings for you?,790,8,8
+"Well, I’ve just been feeling overwhelmed with everything. I guess I just need some advice.",explore,That sounds challenging! Would you like tips on managing your tasks or perhaps some relaxation techniques?,844,9,9
+I’d definitely like some relaxation techniques! That sounds helpful.,introduce_bruno,Great choice! Bruno the bear specializes in relaxation techniques. Want to connect with him for some guidance?,895,9,9
+"Yes, connecting with Bruno sounds lovely! I would love to get some guidance from him.",guide_to_bruno,Fantastic! Bruno will help you find some calming relaxation techniques. Let’s go meet him!,950,10,9

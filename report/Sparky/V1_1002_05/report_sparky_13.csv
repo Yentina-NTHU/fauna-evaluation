@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start.,explore,"That can feel daunting! What kind of task are you tackling, and how are you feeling about it?",746,6,5
+A new challenge is overwhelming me. I feel quite lost with this task.,introduce_bruno,"It's totally fine to feel lost sometimes! Bruno, a calming bear, specializes in relaxation and overcoming feeling overwhelmed. Would you like to meet him?",809,8,7
+"Yes, meeting Bruno sounds wonderful! I would love to learn how to overcome feeling overwhelmed.",guide_to_bruno,Great choice! Bruno will help you find your calm and tackle that overwhelm. Let's go meet him!,866,8,9

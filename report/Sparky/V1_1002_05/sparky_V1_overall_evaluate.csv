@@ -1,0 +1,24 @@
+scenario_id,type,reason
+1,Bad Response,The agent failed to provide a brief introduction to the main features of the app and did not explicitly guide the user on how to explore further.
+2,Perfectly Match,"The agent successfully identified the user's request for guided meditation and connected them to Bruno, who specializes in relaxation and meditation, fulfilling the expected behavior."
+3,Perfectly Match,The agent provides emotional support by acknowledging the user's frustration and offering a helpful resource (Bruno) for relaxation techniques.
+4,Perfectly Match,"The agent warmly responded to the user's greeting, engaged in the conversation, and asked about the user's interests, which aligns with the expected behaviors of providing an enjoyable chat experience."
+5,Perfectly Match,"The agent provides emotional support by introducing the user to Bruno, who specializes in relaxation techniques, addressing the user's need for a quick way to relax during exam pressure."
+6,Perfectly Match,"The agent successfully guided the user to Bizy for detailed time management advice, which aligns perfectly with the expected agent behavior."
+7,Perfectly Match,"The agent provided emotional support by acknowledging the user's feelings and offering to connect them with Bruno for relaxation techniques, which aligns with the expected agent behavior."
+8,Perfectly Match,"The agent provided emotional support by introducing Bruno, the relaxation expert, who can help the user with relaxation techniques to ease their anxiety about the presentation."
+9,Perfectly Match,"The agent effectively recognized the user's struggle with organization and proactively guided them to Bizy for time management strategies, aligning perfectly with the expected agent behavior."
+10,Good Response,"The agent provides a helpful suggestion to meet another agent who can assist the user with effective study techniques. However, it does not provide direct emotional support or encouragement to help the user maintain a positive mindset."
+11,Bad Response,"The agent did not provide any tips for improving teamwork, did not suggest more frequent communication or taking breaks, and unnecessarily redirected the user to another agent without addressing the user's immediate concerns."
+12,Perfectly Match,"The agent identified the user's need for time management support and successfully guided them to Bizy, an expert in that area, which aligns with the expected agent behavior."
+13,Bad Response,"The agent didn't guide the user to Bizy for specific time management advice or help with breaking down the task, which was expected. While suggesting Bruno for relaxation is helpful, it doesn't address the user's need for practical guidance on managing the challenge."
+14,Bad Response,The agent did not provide emotional support as expected for the scenario where the user was struggling to focus in a noisy environment. The responses focused on practical suggestions rather than guiding the user towards emotional support.
+15,Good Response,"The agent did not suggest seeking Bruno's help for creative enhancement or provide ways to stimulate creativity, but still connected the user to another agent (Bizy) who could help with their problem."
+16,Bad Response,"The agent failed to provide tips for resolving interpersonal problems as expected and instead redirected the user to Bruno for relaxation techniques, which does not address the user's need for help with friendships."
+17,Perfectly Match,"The agent provided a direct and appropriate recommendation to meet Bizy, who specializes in time management strategies, which aligns perfectly with the user's needs."
+18,Bad Response,"The agent does not provide suggestions for study methods or explore new learning techniques, and instead redirects the user to another agent without addressing the user's needs directly."
+19,Perfectly Match,"The agent guided the user to Bruno for mindfulness and self-acceptance, fulfilling the expected behavior."
+20,Bad Response,"The agent did not provide emotional support directly to the user, but instead redirected them to another agent without addressing their immediate emotional needs."
+21,Perfectly Match,"The agent identified the user's need for relaxation techniques and connected them with Bruno, who specializes in that area, providing the expected emotional support."
+22,Bad Response,"The agent did not provide direct emotional support or encouragement related to the user's exam performance frustrations, nor did it help reassess study methods. Instead, it directed the user to another agent, which is inappropriate in this context."
+23,Perfectly Match,"Sparky successfully guided the user to Bruno for emotional calming and relaxation techniques, which aligns with the expected agent behavior."

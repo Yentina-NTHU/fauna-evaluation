@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm studying in a noisy environment and it's hard to focus. Could you suggest some methods to improve my concentration?,explore,"Noisy environments can be tough! How does the noise make you feel, and what have you tried to focus so far?",698,5,4
+"The noise makes me feel distracted and frustrated. I've tried using earplugs, but they don't seem to help much. I'm open to any suggestions you have!",introduce_bizy,"I hear you! Bizy, our time management expert, can offer great tips on focusing amidst distractions. Want to meet her?",775,7,6
+"Yes, meeting Bizy sounds like a great idea! I would love to get some tips on focusing amidst distractions.",guide_to_bizy,Fantastic! Bizy will help you tackle those distractions and boost your focus. Let’s go see her!,838,8,7

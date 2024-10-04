@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I always disagree with my parents. How can I improve our communication?,explore,"That's tough! How do these disagreements make you feel, and what do you want to communicate differently?",685,7,6
+"These disagreements make me feel really frustrated and misunderstood. I want to communicate my feelings and viewpoints more clearly, but I'm not sure how to do that.",introduce_bruno,"I get it! Meeting Bruno, our mindfulness expert, could help you express your feelings clearly. Want to connect with him?",759,9,9
+"Yes, I would love to connect with Bruno to help me express my feelings more clearly!",guide_to_bruno,Fantastic! Bruno will guide you in expressing your feelings. Let's go meet him and get started!,815,9,9
