@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I'm just trying to figure out what to do.,explore,Hi there! Could you share more about what’s making you feel uncertain? Let's sort it out together!,767,8,7
+"I'm not really sure, I just feel a bit lost right now.",explore,Feeling lost can be tough! What areas of your life feel most confusing or overwhelming to you?,817,9,8
+"I guess everything feels a bit overwhelming right now, but I'm okay with just exploring options.",explore,"That’s a brave approach! What specific areas are feeling overwhelming? Is it work, relationships, or something else?",875,8,7
+I think it's mostly work. I'm just not sure how to handle everything.,introduce_bizy,I understand! There’s a great bee named Bizy who can help with work and time management challenges. Want to meet her?,935,8,7
+Meeting Bizy sounds wonderful! I'd love to get some tips on work and time management.,guide_to_bizy,Fantastic! Bizy will provide you with some great tips. Let’s go see her!,990,9,9

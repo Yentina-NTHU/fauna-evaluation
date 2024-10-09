@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,explore,Good morning! I'm lively and ready to help! What’s on your mind today?,758,10,10
+Can I chat with you about anything? I just want to talk.,explore,Of course! I'm all ears. What’s been weighing on your mind lately or what are you feeling?,810,10,9
+I just enjoy chatting with you. It makes me feel good. How about you?,explore,That’s wonderful to hear! I love chatting too! What aspects make our conversation enjoyable for you?,864,10,10
+I like hearing your thoughts and suggestions. It helps me feel more relaxed.,introduce_bruno,I’m glad to hear that! There’s a calming bear friend named Bruno who specializes in relaxation and stress relief. Want to meet him?,926,8,7
+"Yes, meeting Bruno sounds lovely! I would love to get some calming tips from him.",guide_to_bruno,Fantastic! Bruno will share some wonderful calming tips. Let’s go see him now!,980,9,9

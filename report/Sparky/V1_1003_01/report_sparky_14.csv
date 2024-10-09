@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm studying in a noisy environment and it's hard to focus. Can you suggest something to help me concentrate better?,explore,That must be frustrating! How does the noise affect your ability to concentrate? What have you tried so far?,769,4,3
+"The noise makes it really hard for me to think clearly and absorb information. I've tried using headphones, but it doesn't always help. I'm open to any suggestions you might have!",introduce_bruno,I hear you! There’s a calming bear named Bruno who specializes in meditation and focus techniques. Would you like to meet him?,849,8,7
+"Yes, meeting Bruno sounds wonderful! I would love to learn some meditation and focus techniques from him.",guide_to_bruno,Great choice! Bruno will share some wonderful techniques to help you find your focus. Let’s go see him!,910,10,10

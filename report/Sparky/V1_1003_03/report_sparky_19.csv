@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I'm dissatisfied with my appearance, and it's making me anxious. What can I do to feel better about myself?",explore,"It’s tough to feel that way! What specific aspects of your appearance are causing you anxiety, and how does this affect your day-to-day life?",791,4,3
+"I'm really worried about how others see me, especially when it comes to my weight and skin. It's making me self-conscious in social situations and affecting my confidence.",introduce_bruno,"I hear you! Meeting Bruno, our meditation bear, could help you relax and gain confidence. Want to connect with him?",867,8,9
+"Yes, meeting Bruno sounds like a great idea! I would love to connect with him and hopefully gain some confidence.",guide_to_bruno,Fantastic! Bruno will help you with relaxation and building self-confidence. Let’s go meet him!,928,9,9

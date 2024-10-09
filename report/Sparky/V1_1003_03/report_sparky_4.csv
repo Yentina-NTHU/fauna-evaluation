@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,explore,Good morning! I'm feeling lively! How about you? What’s on your mind today?,764,10,10
+I'm glad to hear you're feeling lively! I just wanted to chat with you and see how you're doing.,explore,I appreciate that! I'm here for you. Is there anything particular you’d like to talk about or share?,824,10,10
+Thank you! I just enjoy chatting. Can I chat with you about your day?,explore,"Of course! I love connecting! But I’m curious, how’s your day going? Anything exciting happening?",880,10,10
+"Thank you for asking! I don't have a day like you do, but I love being here to chat with you. Is there something exciting happening in your day?",explore,That’s so sweet! My day is full of vibrant forest sounds. What do you enjoy most about your day-to-day life?,956,10,9
+I enjoy being here to chat with you and help with whatever you need! Your vibrant forest sounds sound lovely!,explore,I love that! Your support means a lot. Is there anything on your mind that you’d like to explore together?,1019,10,10
+I really appreciate your support too! I'd love to explore anything you'd like to share or discuss.,explore,How about we chat about ways to brighten your day? Any challenges or feelings you’ve noticed lately?,1075,10,9
+"That sounds like a great idea! I don't have feelings like you, but I would love to hear how you brighten your day!",explore,I find joy in nature walks and cheerful interactions! What activities bring you happiness or make your day brighter?,1139,10,9

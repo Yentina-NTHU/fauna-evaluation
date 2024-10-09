@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm studying in a noisy environment and it's hard to focus. Do you have any suggestions on how I can improve my concentration?,explore,I get that! How does the noise make you feel while you're studying? Do you find it affecting your productivity?,782,3,2
+"Yes, the noise makes me feel quite distracted and anxious. It definitely affects my productivity because I can't concentrate on my work.",introduce_bruno,I understand how tough that can be! There's a calming bear named Bruno who specializes in relaxation and stress release. Want to meet him?,853,7,6
+"Yes, meeting Bruno sounds wonderful! I would love to learn some relaxation techniques from him.",guide_to_bruno,Fantastic! Bruno will help you find some peace and focus. Let's go see him!,907,8,7

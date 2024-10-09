@@ -1,0 +1,7 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ Just trying to figure out how to use this app!,explore,Hello there! What are you hoping to achieve with this app? Any specific goals in mind?,771,8,7
+"I don’t really have any specific goals, just looking to try it out!",explore,"That’s perfectly fine! What areas are you curious about? Productivity, relaxation, or maybe tackling some challenges?",826,9,9
+I think tackling some challenges could be interesting! What do you suggest?,explore,"Great choice! What kind of challenges are you facing? Time management, motivation, or perhaps something else?",878,9,9
+"Hmm, I guess motivation might be something I could work on. Do you have any tips?",explore,Absolutely! What makes you feel unmotivated? Identifying the root cause can help find the right strategies!,936,9,9
+I often feel unmotivated when I have too much on my plate or when things seem overwhelming. What do you think I should do?,introduce_bizy,"Feeling overwhelmed can be tough! I recommend meeting Bizy, the expert in managing time and avoiding procrastination. Interested?",1007,9,9
+"Yes, meeting Bizy sounds like a great idea! I would love to learn how to manage my time better.",guide_to_bizy,Fantastic! Bizy will help you tackle those challenges and improve your time management skills. Let's go meet her!,1071,10,10

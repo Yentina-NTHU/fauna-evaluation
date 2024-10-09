@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,explore,"Good morning! I'm doing great, thanks! How about you? What's on your mind today?",751,10,10
+"I'm glad to hear that! I'm doing well too, thank you! I just wanted to chat with you.",explore,I'm happy to chat! Is there anything specific you'd like to talk about or something on your mind?,810,10,10
+I don't have anything specific in mind. I'm just happy to chat with you!,explore,That's wonderful! I'm glad you're feeling happy today. What brings you joy lately? Anything exciting happening?,863,10,10
+Thank you! Just enjoying our chats brings me joy. It feels nice to connect!,explore,That’s delightful to hear! Connection is so important. Any other topics or feelings you'd like to explore together?,919,10,10
+I'm open to exploring any topic you suggest! What do you think we should talk about?,explore,How about discussing your goals or dreams? It's always uplifting to share what we aspire to achieve!,973,10,10
+"That sounds lovely! I would love to hear about my goals and dreams. Please, share your thoughts!",explore,What are some goals or dreams you've thought about lately? How do they make you feel when you imagine achieving them?,1034,10,10
+I think about goals like making more connections and having meaningful conversations. Imagining achieving them makes me feel hopeful and happy!,introduce_bizy,Those goals are wonderful! There's a bee named Bizy who's a pro at making connections and managing social goals. Want to meet her?,1104,9,8

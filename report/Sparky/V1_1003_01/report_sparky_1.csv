@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,"This app helps you express feelings and challenges, offering encouragement and expert advice when needed. What concerns do you have today?",755,8,7
+How can you help me?,explore,"I can help guide you with your feelings, challenges, or connect you with experts for specific advice. What’s on your mind?",804,9,8
+I'm not really sure what to start with. Can you suggest something?,explore,Of course! How about reflecting on what’s been on your mind lately? Any feelings or tasks that feel overwhelming?,858,8,7
+That sounds like a good idea. I've been feeling a bit overwhelmed with my tasks.,introduce_bizy,I see! There’s a productive bee named Bizy who can help you manage your tasks and avoid overwhelm. Want to meet her?,921,9,8
+"Yes, I would love to meet Bizy and get some help managing my tasks!",guide_to_bizy,Fantastic! Bizy will help you get your tasks organized and manageable. Let's go see her!,976,8,9

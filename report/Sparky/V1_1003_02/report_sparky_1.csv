@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,"This app helps you express your feelings, tackle challenges, and provides motivating advice for better productivity!",759,9,8
+How can you help me?,explore,"I can help you express feelings, solve challenges, and connect you with the right animal experts for support!",803,9,8
+That sounds great! Can you tell me more about the animal experts?,explore,"Sure! We have Bruno the bear for relaxation and stress management, and Bizy the bee for productivity and time management.",858,9,8
+I think I would love to meet Bruno the bear for relaxation and stress management!,introduce_bruno,That’s fantastic! Bruno is wonderful at helping you relax and manage stress. Let's go meet him!,913,10,10
+"Yes, I can't wait to meet Bruno and learn how to relax!",guide_to_bruno,Awesome! Bruno is ready to help you unwind and find your calm. Let's go see him right now!,967,10,10

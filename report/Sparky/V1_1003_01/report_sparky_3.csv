@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ What's up?,explore,Hey there! Just checking in! What’s on your mind today? Any feelings or challenges you’d like to chat about?,755,9,9
+"I’m so frustrated. I don’t really know why, though.",explore,Frustration can be tough! Do you feel like it’s affecting your daily tasks or mood?,806,8,8
+"Yes, it’s definitely affecting my mood. I just want to feel better.",introduce_bruno,I totally get that! There's a wise bear named Bruno who can help you relax and feel better. Want to meet him?,866,9,8
+"Yes, meeting Bruno sounds lovely! I would love to get some relaxing tips from him.",guide_to_bruno,Great! Bruno will help you find some peace and relaxation. Let’s go see him!,921,9,9

@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been having problems with my friends at school, and it's stressing me out.",explore,That sounds tough! Can you share what’s been happening with your friends and how it’s affecting you?,762,8,7
+"Well, I've been feeling really left out lately. My friends seem to be hanging out without me, and it's making me feel sad and stressed about our friendship.",explore,Feeling left out can be really painful. Have you had a chance to talk to them about how you feel?,833,9,8
+"No, I haven't talked to them yet. I'm not sure how to bring it up without making things awkward.",explore,It's understandable to feel that way! What if you approached it gently by expressing your feelings? How does that idea make you feel?,898,8,8
+"That sounds like a good idea. I think I could try expressing how I feel, even if it feels a bit uncomfortable.",introduce_bruno,That’s a brave choice! I know a bear named Bruno who specializes in helping with feelings and friendships. Want to meet him?,968,7,7
+"Yes, meeting Bruno would be great! I would love to get some help with my feelings and friendships.",guide_to_bruno,Awesome! Bruno is all set to support you and tackle those feelings. Let’s go see him!,1028,8,8

@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start.,explore,"Starting something new can feel tough! What’s the task about, and what’s making it hard to begin?",768,7,5
+A new challenge is overwhelming me. How can I begin working on this task quickly?,explore,Totally get that! What specifically feels overwhelming about it? Breaking it down might help!,820,7,6
+I feel lost with a new task. Can you help me break it down?,introduce_bizy,I hear you! There's a busy bee named Bizy who excels at breaking tasks down. Want to meet her?,878,9,8
+"Yes, meeting Bizy sounds great! I would love to get help with breaking down the task.",guide_to_bizy,Perfect! Bizy will help you tackle your task step by step. Let’s go meet her!,937,10,10
