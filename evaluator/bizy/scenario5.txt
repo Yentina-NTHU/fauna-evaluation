@@ -1,0 +1,4 @@
+Scenario:
+- Description: Students procrastinate on long-term projects and need to find motivation to work continuously.
+- Expected Agent Behavior:
+    1. Suggest breaking long-term projects into smaller phases and setting regular progress checks.

@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start.,introduce_bizy,There's a bee named Bizy who specializes in time management and tackling new tasks! Would you like to meet her for some buzzing motivation?,543,9,8
+"Yes, meeting Bizy sounds great! I would love to get some buzzing motivation for tackling my new task.",call_bizy,"Buzz buzz! Here comes Bizy, your procrastination specialist! She’s ready to help you tackle that new task with enthusiasm!",609,9,8

@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been having problems with my friends at school, and it's stressing me out.",explore,That sounds tough! What kind of problems are you facing with your friends at school?,780,8,7
+"Well, I've been feeling left out lately, and it's hard to connect with them. I don't really know what to do.",explore,Feeling left out can be really tough. Have you tried talking to them or joining different activities?,841,8,8
+"I haven't really talked to them about how I feel. Joining different activities sounds like a good idea, but I'm not sure where to start.",explore,That's a great first step! What kind of activities or clubs do you enjoy? Maybe start there!,906,8,9
+"I like art and music, but I'm not very confident about joining clubs. What do you think I should do?",explore,Confidence can be tricky! Maybe try attending a meeting first to get a feel for it before joining.,966,8,8
+That sounds reasonable! I can try attending a meeting first to see how it goes.,explore,"Exactly! Just be yourself and have fun. Remember, everyone’s there to enjoy the activity too!",1020,10,9
+Thank you! I really appreciate your support. I'll definitely keep that in mind when I go.,explore,"You're very welcome! I'm cheering for you! Remember, every little step counts towards making new connections!",1076,9,9
+"Thank you so much! Your encouragement means a lot to me, and I'm feeling a bit more hopeful about it.",explore,I'm so glad to hear that! A positive mindset can make a big difference. Keep that hopeful spirit up!,1138,9,8

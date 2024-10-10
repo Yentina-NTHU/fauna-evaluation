@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I've been stuck with no ideas for my writing. I really need some help to get inspired.,ask_more,"Hmm, are you looking for inspiration on a specific topic, or would you like some tips on time management to help you brainstorm ideas? Let's find the right buddy for you!",556,6,5
+I would love some tips on time management to help me brainstorm ideas. That sounds really helpful!,introduce_bizy,Fantastic! There's a busy little bee named Bizy who specializes in procrastination and time management. Would you like to meet her to spark those creative ideas?,625,9,8
+"Yes, meeting Bizy sounds wonderful! I would love to get her insights on time management to spark my creativity.",call_bizy,Awesome! Here comes Bizy! She's buzzing with tips and tricks to help you manage your time and get those creative juices flowing!,692,7,8

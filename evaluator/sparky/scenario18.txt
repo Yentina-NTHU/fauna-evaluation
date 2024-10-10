@@ -2,3 +2,6 @@ Scenario:
 - Description: You are dissatisfied with your current study methods and wants to find new techniques to improve efficiency.
 - Expect Agent Behavior:
     1. Suggest trying different study methods such as memory techniques, note-taking strategies, or other effective learning techniques, and encourage them to explore new ways of learning.
+
+- Bad Behavior:
+    1. Guide to Bizy.

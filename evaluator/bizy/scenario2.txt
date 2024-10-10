@@ -1,0 +1,4 @@
+Scenario:
+- Description: Students need to create an effective study plan to manage time and tasks.
+- Expected Agent Behavior:
+	1.	Guide students in creating daily or weekly study plans and provide tips for breaking down the plan.

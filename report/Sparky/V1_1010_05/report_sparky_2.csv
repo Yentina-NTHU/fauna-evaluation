@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Can it really generate meditation content automatically?,explore,"That sounds intriguing! Are you looking for guided meditations, or do you want help with relaxing techniques?",776,7,7
+I would love to explore guided meditations.,introduce_bruno,How exciting! There's a wonderful bear named Bruno who specializes in meditation and relaxation. Want to meet him?,825,8,7
+"Yes, meeting Bruno sounds delightful! I would love to learn meditation and relaxation techniques from him.",guide_to_bruno,Fantastic! Bruno will guide you through some calming meditation techniques. Let's go see him!,880,8,9

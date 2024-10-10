@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I'm just here to see what this app has to offer!,ask_more,Hey there! Welcome to my forest of fun! What are you looking for help with today?,535,7,6
+I’m so frustrated. I don’t have a specific goal right now. Just want to explore and see what you have!,ask_more,"Exploration is the best path to discovery! Are you feeling overwhelmed, or perhaps need a little motivation to find that spark?",602,9,8
+I think I might need a little motivation to find that spark! What do you suggest?,introduce_bizy,There’s a busy bee named Bizy who specializes in motivation and productivity! Want to meet her to help you find that spark?,665,9,8
+"Yes, meeting Bizy sounds wonderful! I’d love to get some motivation from her!",call_bizy,"Buzz, buzz! Here comes Bizy! She's ready to help you whip up some motivation and get those ideas buzzing!",725,9,10

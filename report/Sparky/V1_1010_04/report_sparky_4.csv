@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,explore,Good morning! I'm sparkly as always! How about you? How's your day starting?,773,10,10
+"I'm glad to hear that! My day is going well so far, thank you! Can I chat with you?",explore,Of course! I'm here to chat and help. What's on your mind today?,829,10,10
+I'm just happy to chat with you! Is there anything fun or interesting you'd like to talk about?,explore,I'm thrilled to chat too! How about sharing some fun forest adventures or favorite animals?,883,10,10
+That sounds wonderful! I would love to hear about your favorite animals!,explore,"Oh, I adore all forest critters! Squirrels are playful, rabbits are cuddly, and foxes are clever! What's your favorite?",944,10,10
+I think foxes are really interesting! Their cleverness is fascinating. Do you have a favorite story about any of these animals?,explore,Absolutely! There's a story about a clever fox outsmarting a hungry wolf. Want to hear it?,1008,10,10
+"Yes, I would love to hear the story about the clever fox! Please share it!",explore,"Once, a cunning fox faced a hungry wolf. To escape, he pretended to be sick and told the wolf a secret.",1069,10,10
+That sounds intriguing! What was the secret the fox told the wolf?,explore,"The fox claimed there was a feast of food hidden in a nearby cave, luring the wolf away! Clever, right?",1125,10,10

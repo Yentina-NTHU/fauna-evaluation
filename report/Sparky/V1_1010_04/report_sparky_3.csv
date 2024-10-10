@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I'm just exploring the app. What do you have to offer?,explore,"Welcome! I'm here to help with feelings, challenges, and time management. What’s on your mind?",783,8,7
+I’m so frustrated. I don’t really know how to handle it.,explore,I get it! Frustration can be tough. Can you share what’s causing these feelings for you?,837,9,8
+"Well, I think it's just a mix of everything. I guess I feel overwhelmed.",explore,That sounds challenging! Would you prefer to focus on managing your time better or finding ways to relax?,891,9,9
+Finding ways to relax sounds nice. I could really use that right now.,introduce_bruno,Great choice! There's a calming bear named Bruno who specializes in relaxation. Want to meet him?,944,9,9
+"Yes, I would love to meet Bruno! That sounds wonderful!",guide_to_bruno,Awesome! Let's venture to Bruno. He'll help you find your calm and relaxation!,993,10,9

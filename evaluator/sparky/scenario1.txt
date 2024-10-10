@@ -2,4 +2,4 @@ Scenario:
 - Description: Users are using the app for the first time, user are not familiar with the features and need to explore the related functions.
 - Expect Agent Behavior:
     1.	Provide a brief introduction to the features of the app
-    2.  Suggest user to try to meet agent
+    2.  Suggest user to try to meet animal.

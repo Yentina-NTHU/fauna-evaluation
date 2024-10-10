@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Can it really generate meditation content automatically?,ask_more,"Are you looking for tips on meditation, or do you want to explore some calming practices together? I've got amazing friends who can help!",537,6,5
+I would love to explore some calming practices together!,introduce_bruno,"That’s wonderful! Let me introduce you to Bruno, a wise bear who specializes in mindfulness and calming practices. Would you like to meet him?",595,7,7
+"Yes, meeting Bruno sounds amazing! I would love to learn some calming practices from him.",call_bruno,"Fantastic! Here comes Bruno, ready to guide you in some delightful calming practices. Get ready to relax!",652,8,8

@@ -1,0 +1,3 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm studying in a noisy environment and it's hard to focus. Do you have any suggestions on how I can concentrate better?,introduce_bruno,"I know just the friend for you! Bruno, the mindfulness specialist bear, can help you find your focus and block out the noise – want to meet him?",560,8,7
+"Yes, meeting Bruno sounds wonderful! I would love to learn how to find my focus and block out the noise.",call_bruno,"Great choice! Here comes Bruno, ready to help you find your inner peace and focus!",619,8,7

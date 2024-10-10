@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I'm just here to explore and see what this app can do.,explore,"Hello there, friend! What’s been on your mind lately? I'm here to help you explore!",782,8,8
+I’m so frustrated. I just feel like I don't have a specific goal right now.,introduce_bizy,"I hear you! Meeting Bizy, the time management expert bee, could help you set some goals. Want to meet her?",845,9,8
+"Yes, meeting Bizy sounds great! I would love to set some goals with her.",guide_to_bizy,Yay! Let's buzz over to Bizy. She's ready to help you set those goals!,901,9,9

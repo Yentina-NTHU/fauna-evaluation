@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"Hello~ I'm just exploring this app, what do you suggest I try first?",explore,Hey there! Let's discover what's on your mind! Any feelings or challenges you'd like to share?,782,7,6
+I'm feeling a bit frustrated right now. I guess I just want to find something to help me feel better.,introduce_bruno,I hear you! There's a wise bear named Bruno who specializes in relaxation and stress release. Want to meet him?,846,9,8
+Meeting Bruno sounds wonderful! I would love to learn about relaxation and stress release from him.,guide_to_bruno,Great choice! Bruno will help you unwind and find your calm. Let's go meet him!,901,9,9

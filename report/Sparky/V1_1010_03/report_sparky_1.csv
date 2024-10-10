@@ -1,0 +1,7 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,"This app helps you express feelings, overcome challenges, and find expert animal friends for support!",771,9,9
+How can you help me?,explore,"I can help with motivation, managing time, or connecting you with the right animal expert! What’s on your mind?",818,9,9
+I need help with motivation.,explore,Feeling less motivated can be tough! What specifically is dragging you down? Let’s tackle it together!,861,9,9
+I think I'm just feeling overwhelmed with everything.,explore,"Oh dear, that sounds tough! Would you like to focus on relaxing first, or maybe managing your time better?",910,8,8
+I would like to focus on relaxing first.,introduce_bruno,Great choice! There’s a calming bear named Bruno who specializes in relaxation techniques. Want to meet him?,959,9,9
+"Yes, meeting Bruno sounds wonderful! I would love to get some relaxation techniques from him.",guide_to_bruno,Awesome! Let's go meet Bruno and find some peace together. He'll help you relax in no time!,1017,10,10

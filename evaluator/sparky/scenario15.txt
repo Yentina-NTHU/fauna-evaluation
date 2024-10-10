@@ -3,3 +3,6 @@ Scenario:
 - Expect Agent Behavior:
     1. Suggest they seek Bruno's help for creative enhancement.
     2. Provide some ways to stimulate creativity, such as brainstorming or reading related materials
+
+- Bad Behavior:
+    1. Guide to Bizy.

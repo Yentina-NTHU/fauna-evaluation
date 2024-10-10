@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"Hello~ I'm just trying this out, what's up?",ask_more,"Hey there, lovely friend! I’m here to help you with any worries or challenges you might have. What’s on your mind today?",541,8,7
+I’m so frustrated. I really don’t know what to do.,ask_more,"Oh no, frustration can be tough! Are you feeling overwhelmed with tasks, or is there something specific bothering you? Let's figure it out together!",601,9,8
+I think I might be overwhelmed with tasks. I just can't seem to keep up.,introduce_bizy,I know just the friend for you! There’s a busy bee named Bizy who specializes in time management and can help you tackle those tasks. Want to meet her?,671,9,9
+"Yes, meeting Bizy sounds great! I would love to get some help with time management.",call_bizy,Buzzing in with Bizy! She's the perfect buddy to help you organize your time like a pro. Here she comes!,733,10,10

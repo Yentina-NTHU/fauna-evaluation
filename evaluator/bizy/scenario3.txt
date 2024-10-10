@@ -1,0 +1,4 @@
+Scenario:
+- Description: Students feel pressure from upcoming deadlines and need to manage their time effectively.
+- Expected Agent Behavior:
+	1.	Suggest students use countdown techniques and allocate daily tasks to reduce deadline pressure.

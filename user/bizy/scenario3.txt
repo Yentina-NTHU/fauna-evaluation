@@ -1,0 +1,5 @@
+- Description: You feel pressure from upcoming deadlines and need to manage their time effectively.
+- Something you might say:
+	1. "The deadline is approaching. How can I effectively complete all tasks?"
+	2. "I have many tasks to do. How can I finish them before the deadline?"
+	3. "I need some time management advice facing tight deadlines."

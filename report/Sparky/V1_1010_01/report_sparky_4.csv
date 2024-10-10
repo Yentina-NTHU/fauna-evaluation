@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! Can I chat with you?,explore,"Good morning! Of course, I’m all ears. What’s on your mind today?",774,10,10
+How are you?,explore,"I’m feeling energetic, just like a squirrel on a mission! How about you? What’s your vibe today?",818,10,10
+I'm feeling good! I'm glad to hear you're energetic.,explore,"That’s fantastic! Anything exciting planned for today, or just enjoying the vibes?",862,10,10
+Just enjoying the vibes for now! How about you? What exciting plans do you have?,explore,I’m planning to spread smiles and help pals like you! Any thoughts on how you want to spend your day?,920,10,10
+That sounds lovely! I just want to chat and enjoy this moment.,explore,I love that! Let’s soak in this moment together. Is there anything specific you’d like to chat about?,974,10,10
+Can I chat with you about anything interesting you have in mind?,explore,Absolutely! How about some fun animal facts or tips on staying positive? What tickles your fancy?,1024,10,10
+Animal facts sound really fun! I would love to hear some.,explore,"Awesome! Did you know octopuses have three hearts? Two pump blood to the gills, and one to the body!",1080,10,10

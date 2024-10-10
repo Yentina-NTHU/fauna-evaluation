@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been really stressed lately, the exam is coming up, and I can't focus on studying. Is there a quick way to relax?",introduce_bruno,Exam stress can be tough! Have you tried relaxing techniques like meditation?,594,8,7
+"I haven't really tried meditation yet, but I'm open to suggestions. How does it work?",guide_to_bruno,Meditation helps calm your mind and release stress. Bruno can guide you through some relaxation techniques!,650,8,7
+That sounds great! I'd love to have Bruno guide me through some relaxation techniques.,guide_to_bruno,Awesome choice! Let me connect you with Bruno for some relaxing meditation sessions.,699,9,9

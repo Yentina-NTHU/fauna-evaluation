@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?,ask_more,"Would you like some help organizing your study schedule, or do you prefer to take a moment to relax and reduce that anxiety first? I'm here to help you find the best approach!",557,7,8
+I think organizing my study schedule would be really helpful. I would appreciate your guidance on that!,introduce_bizy,Great choice! There's a buzzing little bee named Bizy who specializes in time management and procrastination. Would you like to meet her to help you get organized?,627,9,9
+"Yes, I would love to meet Bizy! Hopefully, she can help me get organized.",call_bizy,"Here comes Bizy, the expert bee on time management! She's buzzing with energy to help you create a fantastic study schedule!",689,8,9

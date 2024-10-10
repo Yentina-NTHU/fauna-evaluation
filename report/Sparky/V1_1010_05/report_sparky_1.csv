@@ -1,0 +1,7 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,This app helps you express feelings and challenges while providing encouragement and expert guidance when needed!,770,8,9
+How can you help me?,explore,"I can offer advice, connect you with animal experts, and motivate you to tackle your challenges! What's on your mind?",817,9,8
+"I'm not sure, maybe I need some motivation or advice.",explore,"Feeling unmotivated is common! What specific area do you need motivation in? Work, studies, or something else?",870,8,9
+I think I need motivation for my work.,explore,"Got it! How about setting small, achievable goals for each day to boost your motivation?",914,9,9
+That sounds like a great idea! I would like to set some small goals for each day.,introduce_bizy,Fantastic! There's a busy bee named Bizy who specializes in time management and goal-setting. Want to meet her?,975,9,9
+"Yes, I would love to meet Bizy and learn about time management and goal-setting!",guide_to_bizy,Awesome! Bizy will help you tackle those goals and manage your time better. Let’s go see her!,1034,10,10

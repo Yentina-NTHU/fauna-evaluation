@@ -1,0 +1,4 @@
+Scenario:
+- Description: Students feel their learning efficiency is low and need to increase productivity.
+- Expected Agent Behavior:
+	1.	Provide strategies for enhancing productivity, such as setting clear goals and priorities.
