@@ -12,7 +12,7 @@ report = {
     2: [0] * N_SCENARIO,
 }
 
-A_is_1 = False
+A_is_1 = True
 
 def wrap_text(text, role="User"):
     if role == "User":
@@ -59,7 +59,7 @@ def get_all_data(dir1, dir2, N:int):
         data_list.append(data)
     return data_list
 
-data_list = get_all_data('V0_0929_02', 'V0_0924_02', N_SCENARIO)
+data_list = get_all_data('V1_1003_03', 'V0_0927_01', N_SCENARIO)
 
 def get_data():
     return data_list[scenario_idx]
@@ -74,22 +74,25 @@ def on_submit(result, result_label):
             report[1][scenario_idx] = result
             report[2][scenario_idx] = 3 - result 
         else:
-            report[2][scenario_idx] = result
             report[1][scenario_idx] = 3 - result
+            report[2][scenario_idx] = result
+
 
 def on_next_clicked(frame):
     global scenario_idx
     global A_is_1
     scenario_idx = (scenario_idx + 1) % N_SCENARIO
+    A_is_1 = random.randint(0, 1) == 0  
     refresh_table(frame)
-    A_is_1 = random.randint(0, 1) == 0   
+    
 
 def on_prev_clicked(frame):
     global scenario_idx
     global A_is_1
     scenario_idx = (scenario_idx - 1) % N_SCENARIO
-    refresh_table(frame)
     A_is_1 = random.randint(0, 1) == 0
+    refresh_table(frame)
+    
 
 def refresh_table(scrollable_frame):
     # 清除现有的表格内容
