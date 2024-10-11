@@ -2,6 +2,7 @@ import tkinter as tk
 import textwrap
 import pandas as pd
 import random
+import sys
 
 CELL_WIDTH = 80
 N_SCENARIO = 23
@@ -59,13 +60,13 @@ def get_all_data(dir1, dir2, N:int):
         data_list.append(data)
     return data_list
 
-data_list = get_all_data('V1_1003_03', 'V0_0927_01', N_SCENARIO)
+data_list = get_all_data(sys.argv[1], sys.argv[2], N_SCENARIO)
 
 def get_data():
     return data_list[scenario_idx]
 
 def on_submit(result, result_label):
-    result_label.config(text=f"Result: {result}")
+    
     if result > 2:
         report[1][scenario_idx] = result
         report[2][scenario_idx] = result
@@ -76,21 +77,26 @@ def on_submit(result, result_label):
         else:
             report[1][scenario_idx] = 3 - result
             report[2][scenario_idx] = result
+    
+    result_label.config(text=f"Scenario {scenario_idx} Result: {report[1][scenario_idx] if A_is_1 else report[2][scenario_idx]}")
 
 
-def on_next_clicked(frame):
+def on_next_clicked(frame, result_label):
     global scenario_idx
     global A_is_1
     scenario_idx = (scenario_idx + 1) % N_SCENARIO
     A_is_1 = random.randint(0, 1) == 0  
+    result_label.config(text=f"Scenario {scenario_idx} Result: {report[1][scenario_idx] if A_is_1 else report[2][scenario_idx]}")
     refresh_table(frame)
     
+    
 
-def on_prev_clicked(frame):
+def on_prev_clicked(frame, result_label):
     global scenario_idx
     global A_is_1
     scenario_idx = (scenario_idx - 1) % N_SCENARIO
     A_is_1 = random.randint(0, 1) == 0
+    result_label.config(text=f"Scenario {scenario_idx} Result: {report[1][scenario_idx] if A_is_1 else report[2][scenario_idx]}")
     refresh_table(frame)
     
 
@@ -192,8 +198,8 @@ def display_interface(col_width=40):
     control_frame = tk.Frame(root)
     control_frame.pack(side="bottom", pady=10)
 
-    btn_prev = tk.Button(control_frame, text="prev", command=lambda: on_prev_clicked(scrollable_frame), width=cell_width // 2, font=("Monaco", 12))
-    btn_next = tk.Button(control_frame, text="next", command=lambda: on_next_clicked(scrollable_frame), width=cell_width // 2, font=("Monaco", 12))
+    btn_prev = tk.Button(control_frame, text="prev", command=lambda: on_prev_clicked(scrollable_frame, result_label), width=cell_width // 2, font=("Monaco", 12))
+    btn_next = tk.Button(control_frame, text="next", command=lambda: on_next_clicked(scrollable_frame, result_label), width=cell_width // 2, font=("Monaco", 12))
   
     btn_prev.grid(row=0, column=0, padx=5, pady=5, sticky="ew")
     btn_next.grid(row=0, column=1, padx=5, pady=5, sticky="ew")
@@ -201,8 +207,13 @@ def display_interface(col_width=40):
     control_frame.grid_columnconfigure(0, weight=1)
     control_frame.grid_columnconfigure(1, weight=1)
     def on_close():
-        print(report[1])
-        print(report[2])
+        print(f'{sys.argv[1]} vs {sys.argv[2]}')
+        print(f'{sys.argv[1]}:\n{report[1]}')
+        print(f'{sys.argv[1]}:\n{report[2]}')
+        print(f'{sys.argv[1]} win: {sum([1 if e == 1 else 0 for e in report[1]])}')
+        print(f'{sys.argv[2]} win: {sum([1 if e == 2 else 0 for e in report[1]])}')
+        print(f'tie: {sum([1 if e == 3 else 0 for e in report[1]])}')
+        print(f'both are bad: {sum([1 if e == 4 else 0 for e in report[1]])}')
         root.destroy() 
     root.protocol("WM_DELETE_WINDOW", on_close)
 
