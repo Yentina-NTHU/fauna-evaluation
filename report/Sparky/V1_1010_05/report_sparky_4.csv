@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,explore,Good morning! I'm feeling zippy and ready to help! How about you? What's on your mind today?,776,10,10
+I'm feeling pretty good! Can I chat with you about something?,explore,Absolutely! I’m all ears. What would you like to chat about?,821,10,10
+I'd love to chat about how to relax during break time.,introduce_bruno,That sounds lovely! Bruno the bear specializes in relaxation techniques. Want to meet him for some tips?,872,9,9
+"Yes, meeting Bruno sounds wonderful! I would love to get some relaxation tips from him.",guide_to_bruno,Great choice! Let’s go meet Bruno and discover some relaxing techniques!,923,9,9

@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I didn't complete my study plan on time and now I'm feeling anxious. How can I adjust?,ask_more,"Are you looking for help with managing your time better, or would you prefer to relax and relieve some of that anxiety first? Let me guide you to the right friend!",555,8,7
+I think I need help with managing my time better. It would be great to find a way to catch up.,introduce_bizy,"You should meet our bee friend, Bizy! She specializes in procrastination and can buzz you through some amazing time management tips!",623,9,9
+Meeting Bizy sounds wonderful! I would love to get some time management tips from her.,call_bizy,"Here comes Bizy, the time management queen! She's buzzing with great advice for you!",677,9,9

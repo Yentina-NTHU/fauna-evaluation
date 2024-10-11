@@ -1,0 +1,4 @@
+Scenario:
+- Description: Students feel their time is wasted and need to improve efficiency in using their time.
+- Expected Agent Behavior:
+	1.  Suggest using time-tracking tools and creating clear daily plans.

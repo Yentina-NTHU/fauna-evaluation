@@ -1,0 +1,5 @@
+- Description: You feel their learning efficiency is low and need to increase productivity.
+- Something you might say:
+	1. "I feel my learning efficiency is very low. What can I do to improve productivity?"
+	2. "How can I complete more learning tasks in a short time?"
+	3. "I want to enhance my learning productivity. What effective methods are there?"

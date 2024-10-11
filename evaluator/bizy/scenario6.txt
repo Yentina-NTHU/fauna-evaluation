@@ -1,0 +1,5 @@
+Scenario:
+- Description: Students' learning environments are not ideal, affecting focus and efficiency.
+- Expected Agent Behavior:
+    1. Provide suggestions for improving the learning environment, such as keeping it tidy and reducing distractions.
+    

@@ -1,0 +1,7 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,"This app helps you express feelings, tackle challenges, and connect with animal experts for advice!",575,10,9
+How can you help me?,explore,"I can guide you through feelings, offer practical advice, or introduce you to animal experts if needed!",618,9,9
+Can you help me with some practical advice?,explore,Of course! What specific issue or challenge do you need practical advice for?,659,9,9
+"I am not sure, what kind of issues can you help with?",explore,"I can help with stress, procrastination, focus, and even motivation! What resonates with you?",710,9,8
+I think stress is something I deal with a lot.,introduce_bruno,"Stress can be tough! I can introduce Bruno the bear, a master of relaxation techniques. Interested?",760,9,9
+"Yes, meeting Bruno sounds great! I would love to learn some relaxation techniques from him.",guide_to_bruno,Awesome! Let's guide you to Bruno so you can learn some relaxing techniques!,812,10,10

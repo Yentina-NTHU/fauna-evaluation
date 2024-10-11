@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start. Can you help me figure it out?,ask_more,"Are you looking for tips on how to organize your time, or do you want a boost of motivation to get started? Let me help you find the right friend!",555,8,7
+I would love some tips on how to organize my time to get started on this task.,introduce_bizy,There's a busy little bee named Bizy who specializes in time management! Want to meet her to get some awesome tips?,616,9,9
+"Yes, meeting Bizy sounds great! I would love to get some awesome time management tips from her.",call_bizy,Buzzing right over! Bizy is eager to share her time management magic with you!,673,10,10

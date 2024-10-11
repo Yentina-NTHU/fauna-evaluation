@@ -1,0 +1,5 @@
+- Description: You need to create an effective study plan to manage time and tasks.
+- Something you might say:
+    1. "I need to create a study plan. How should I start?"
+    2. "How can I effectively schedule my study time each day?"
+    3. "I need help creating a study plan. Any suggestions?"

@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I didn't do well on my exam, and it's making me feel really discouraged. How can I regain my confidence?",explore,"I’m sorry to hear that! It’s tough, but remember, one exam doesn’t define you. What do you feel might help you bounce back?",801,9,8
+I feel like I could use some tips on how to improve my study efficiency. Maybe I can turn things around for next time.,introduce_bizy,"That's a great attitude! Bizy, the bee expert, can help you improve your study efficiency. Want to meet her?",871,8,7
+"Yes, meeting Bizy sounds wonderful! I would love to get some tips from her on improving my study efficiency.",guide_to_bizy,Fantastic! Bizy will buzz in to help you boost your study skills. Let’s go see her!,934,9,8

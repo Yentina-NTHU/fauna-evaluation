@@ -1,0 +1,7 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been having problems with my friends at school, and it's stressing me out.",explore,That sounds tough! What kind of problems are you experiencing with your friends? I’m here to help!,784,8,6
+"We're not getting along as well as we used to, and it feels like there's a lot of misunderstandings between us. It's really affecting my mood.",explore,I’m sorry to hear that! Have you tried talking to them about how you feel? Communication can help!,853,9,8
+I haven't really talked to them yet. I'm not sure how to start the conversation.,explore,"Starting can be hard! You might say something like, 'Hey, I feel like we’ve been distant. Can we chat about it?'. What do you think?",921,9,9
+That sounds like a good idea! I think I could try that. It feels a bit easier knowing what to say.,explore,Yay! I'm glad to hear that! Taking the first step can make a big difference. You've got this!,985,9,9
+Thank you for the encouragement! I really appreciate it.,explore,"You're very welcome! Just remember, you're not alone. Keep me updated on how it goes!",1032,10,10
+I will! Thank you for your help and support!,explore,Anytime! I'm here for you! Just keep shining and being awesome!,1075,9,8

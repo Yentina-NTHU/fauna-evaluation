@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+I'm really nervous about my upcoming presentation and I'm finding it hard to focus. Do you have any tips for relaxation and concentration?,ask_more,"Would you like some tips on how to relax before your presentation, or do you want to chat about strategies to help you focus while preparing? I can help you connect with just the right animal friend!",567,6,5
+I would love some tips on how to relax before my presentation. That would really help me!,introduce_bruno,There’s a wise bear named Bruno who specializes in mindfulness and relaxation! Would you like to meet him to help ease your nerves?,631,8,7
+"Yes, meeting Bruno sounds wonderful! I would love to talk to him to help ease my nerves.",call_bruno,Fantastic! Bruno is here to assist you in calming those nerves. He'll guide you through some relaxing techniques!,691,9,9

@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,explore,Good morning! I’m feeling lively! How about you? Got anything on your mind today?,773,10,10
+I'm feeling good too! I just wanted to chat with you. Can I chat with you?,explore,Of course! I’m all ears! What would you like to chat about today?,826,10,10
+Thank you! I would love to chat about anything that interests you!,explore,How about we talk about the wonders of nature? Got a favorite animal or plant you'd like to share?,878,10,9
+"That sounds great! I really like dolphins, they're so intelligent and playful.",explore,Dolphins are amazing! They truly embody joy and intelligence. What do you love most about them?,931,10,10
+I love how they communicate with each other through sounds and body language. It's fascinating!,explore,Absolutely! Their ability to express feelings is so inspiring. Do you enjoy learning about animal communication in general?,986,10,10
+"Yes, I find animal communication very interesting! It's amazing how different species have their own ways of connecting.",explore,It really is! Each species has unique methods. Have you ever tried to learn more about any specific animal's communication?,1048,10,10
+"I haven't focused on a specific animal, but I'd love to learn more about how different animals communicate.",explore,"That sounds like a fun adventure! You could start with some books or documentaries on animal behavior. Exciting, right?",1109,10,10

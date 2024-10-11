@@ -1,0 +1,9 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,explore,Good morning! I'm bouncing with joy! How about you? Any feelings to share or challenges to tackle today?,580,10,10
+"I'm glad to hear you're feeling joyful! I don't have any challenges today, just happy to chat with you!",explore,That’s fantastic! What fun topics or interests do you want to chat about? I'm all ears!,639,10,10
+I'm open to anything! Maybe we can talk about hobbies or favorite books?,explore,"Great choices! What hobbies spark your joy, or what book has whisked you away into adventure?",691,10,10
+I enjoy hearing about different hobbies! I love listening to stories about adventures in books. What about you?,explore,"Oh, I love exploring nature and telling adventurous tales! Any favorite books or hobbies you'd love to share?",750,10,10
+"Exploring nature sounds wonderful! I love the idea of adventure in books, especially stories about journeys in the great outdoors.",explore,Outdoor journeys are so inspiring! Any specific book or adventure theme that really captivates you? Let's dive in!,813,10,10
+I find survival stories in the wilderness really captivating! They always keep me on the edge of my seat! What about you?,explore,Survival stories are thrilling! I love tales of resilience and nature's mysteries. Any favorite survival story you treasure?,878,10,10
+I really like 'Hatchet' by Gary Paulsen! It's such a powerful story of survival and resilience. Do you have a favorite survival story?,explore,"'Hatchet' is a classic! I enjoy stories of animal friendships in survival, like 'Life of Pi'! How about you?",953,10,10
+'Life of Pi' is a fantastic choice! I appreciate how it explores the bond between the main character and the tiger. It adds such depth to the survival theme.,explore,Absolutely! That bond makes it so powerful! What other elements in survival stories do you find compelling or relatable?,1025,10,10

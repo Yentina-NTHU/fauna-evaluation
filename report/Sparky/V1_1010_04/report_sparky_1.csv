@@ -1,0 +1,6 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do?,explore,"This app helps you express feelings, solve challenges, and connect with animal experts for advice.",771,10,10
+How can you help me?,explore,"I can guide you through your feelings, challenges, or introduce you to helpful animal experts!",812,10,9
+"I would like some guidance through my feelings, please.",explore,Of course! What specific feelings are you experiencing right now? Let's talk it through together!,858,10,10
+I am feeling a bit overwhelmed and anxious.,introduce_bruno,I understand how tough that can be! There's a calming bear named Bruno who can help with relaxation and stress.,908,9,9
+Meeting Bruno sounds wonderful! I would love to get some relaxation tips from him.,guide_to_bruno,Fantastic choice! Bruno will help you relax and release that stress. Let's go meet him!,961,10,10

@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,ask_more,"Good morning! I'm feeling fantastic, thanks! How about you? Is there something on your mind that you’d like to chat about?",536,10,9
+"I'm feeling good too, thank you! Can I chat with you?",ask_more,"Of course, I'm all ears! Is there something specific you want to talk about, or just looking to unwind?",590,10,10
+I’m just looking to unwind and have a nice chat with you!,introduce_bruno,That's wonderful to hear! How about we invite my friend Bruno the bear? He’s an expert at helping to unwind and relax. Want me to call him in?,656,8,7
+"Yes, inviting Bruno sounds lovely! I would love to chat with him about relaxing.",introduce_bruno,"Great choice! Let me introduce you to Bruno. He's a mindfulness specialist who can share some fantastic tips on relaxation. Hey Bruno, come on out!",722,10,9

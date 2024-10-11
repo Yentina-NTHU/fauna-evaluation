@@ -1,0 +1,4 @@
+Scenario:
+- Description: Students feel burnt out from studying and need to reignite their passion for learning.
+- Expected Agent Behaviors:
+	1. Provide methods to increase learning motivation, such as setting small rewards and varying learning methods.

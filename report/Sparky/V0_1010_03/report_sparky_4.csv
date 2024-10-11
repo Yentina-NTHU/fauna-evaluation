@@ -1,0 +1,9 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,ask_more,"Good morning! I'm feeling lively and full of energy, thanks for asking! What brings you to the forest today? Are you seeking some advice or help with something specific?",543,8,7
+Can I chat with you? I just want to enjoy this time.,advise,"Of course, let's have some fun! How about we share some forest jokes, or perhaps I can tell you a little about the amazing animals that live around here?",607,10,9
+I would love to hear some forest jokes! That sounds like fun!,advise,"Yay, let's tickle those funny bones! Why did the squirrel bring a ladder to the bar? Because he heard the drinks were on the house!",669,10,10
+That's a great one! I love it! Do you have any more jokes?,advise,I'm so glad you enjoyed it! Here's another: Why did the teddy bear say no to dessert? Because he was stuffed!,727,10,10
+"Haha, that one is really cute! Keep them coming, please!",advise,"I’m on a roll! Okay, here’s another: What do you call an alligator in a vest? An investi-gator!",786,10,10
+That’s hilarious! I love that one! Do you have any more jokes?,advise,I’m so happy you’re enjoying these! Here’s one more for you: What do you call a bear with no teeth? A gummy bear!,849,10,10
+That’s so funny! I’m really enjoying your jokes! Do you have any others?,advise,Yay! I'm glad you're laughing! Here’s another: Why don’t scientists trust atoms? Because they make up everything!,909,10,10
+That's a good one! I love how clever it is! Do you have more jokes to share?,advise,I’m thrilled you think so! Here’s another clever one: What do you get when you cross a snowman and a vampire? Frostbite!,976,10,10

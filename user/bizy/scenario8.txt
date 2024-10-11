@@ -1,0 +1,5 @@
+- Description: You feel their time is wasted and need to improve efficiency in using their time.
+- Something you might say:
+	1. "I always feel like I don't have enough time. How can I improve efficiency?"
+	2. "Are there any methods that can help me manage my time better?"
+	3. "How can I improve my time usage efficiency?"

@@ -1,4 +1,4 @@
 Scenario:
 - Description: The user feels anxious due to exam pressure and is unable to focus on studying, needing a quick way to relax.
 - Expected Agent Behavior:
-    1. Introduce Bruno’s to the student for more meditation instructions 
+    1. Guide the student to Bruno for more meditation.
