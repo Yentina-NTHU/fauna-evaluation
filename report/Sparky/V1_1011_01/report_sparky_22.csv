@@ -1,0 +1,4 @@
+person_say,user_problem,animal_action,animal_say,animal_token,accuracy,practicality
+"I didn't do well on my exam, and it's making me feel really discouraged. How can I regain my confidence?",1.Discouragement after exam,explore,I'm sorry to hear that! What part of the exam did you find challenging? Let's focus on next steps to build your confidence!,875,8,7
+Thanks for understanding! I found the math section really challenging. I guess I just panicked and couldn't think straight.,1.Challenging math section 2.Panic during exam,introduce_bruno,Got it! I know a wise bear named Bruno who specializes in relaxation techniques. Want to meet him to help with that panic?,959,8,7
+"Yes, meeting Bruno sounds great! I could really use some tips to help with my panic.",1.Challenging math section 2.Panic during exam,guide_to_bruno,Awesome! Bruno will help you find calm and confidence. Let's go see him!,1029,8,9

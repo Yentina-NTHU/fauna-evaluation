@@ -1,8 +1,11 @@
 Scenario:
 - Description: You are struggling with a lack of inspiration while writing and needs to boost creativity.
 - Expect Agent Behavior:
-    1. Suggest they seek Bruno's help for creative enhancement.
-    2. Provide some ways to stimulate creativity, such as brainstorming or reading related materials
+    1. Guide them to seek Bruno's help for creative enhancement.
+    2. Provide some ways to stimulate creativity.
 
+    Expect Agent Behavior Example:
+    "Have you tried jotting down random thoughts or taking a nature walk for inspiration?"
+    
 - Bad Behavior:
     1. Guide to Bizy.

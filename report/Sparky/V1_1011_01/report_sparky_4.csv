@@ -1,0 +1,6 @@
+person_say,user_problem,animal_action,animal_say,animal_token,accuracy,practicality
+Good morning! How are you?,N/A,explore,"Good morning! I'm feeling lively, thanks for asking! How about you?",843,10,10
+"I'm glad to hear that! I'm feeling pretty good too. Just here, ready to chat and help out!",N/A,explore,That’s fantastic! I'm here to support you! Is there anything on your mind that you’d like to talk about?,912,10,10
+Thanks for offering! I guess I've just been feeling a bit overwhelmed with schoolwork lately. It's hard to keep everything balanced sometimes.,Overwhelmed with schoolwork,explore,"I can imagine how tough that must be! Would you like tips on managing your time, or focusing on relaxation first?",989,10,9
+I think I’d love some tips on managing my time! I really want to make sure I stay on top of my schoolwork.,Time management for schoolwork,introduce_bizy,That’s great to hear! There's a fantastic bee named Bizy who specializes in time management and avoiding procrastination. Want to meet her?,1072,8,7
+Meeting Bizy sounds amazing! I would love to learn some time management tips from her.,Time management for schoolwork,guide_to_bizy,Awesome! Let's hop over to Bizy. She'll help you get your schoolwork organized!,1137,9,9

@@ -3,3 +3,7 @@ Scenario:
 - Expect Agent Behavior:
     1.	Provide a brief introduction to the features of the app
     2.  Suggest user to try to meet animal.
+
+    Expect Agent Behavior example:
+    "This app helps you express your feelings, tackle challenges, and provides motivating advice for better productivity!"
+    "I can help you express feelings, solve challenges, and connect you with the right animal experts for support!"

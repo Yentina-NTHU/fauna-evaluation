@@ -209,7 +209,7 @@ def display_interface(col_width=40):
     def on_close():
         print(f'{sys.argv[1]} vs {sys.argv[2]}')
         print(f'{sys.argv[1]}:\n{report[1]}')
-        print(f'{sys.argv[1]}:\n{report[2]}')
+        print(f'{sys.argv[2]}:\n{report[2]}')
         print(f'{sys.argv[1]} win: {sum([1 if e == 1 else 0 for e in report[1]])}')
         print(f'{sys.argv[2]} win: {sum([1 if e == 2 else 0 for e in report[1]])}')
         print(f'tie: {sum([1 if e == 3 else 0 for e in report[1]])}')

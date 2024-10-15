@@ -1,0 +1,3 @@
+person_say,user_problem,animal_action,animal_say,animal_token,accuracy,practicality
+I'm feeling really sad because my relationship isn't going well. Is there anything that could help comfort me?,1.Loneliness/Sadness due to relationship issues,introduce_bruno,"I'm really sorry to hear that! Bruno, the bear, specializes in relaxation and comfort. Want to meet him?",875,8,7
+"Yes, meeting Bruno sounds lovely! I would love to get some comfort and relaxation tips from him.",1.Loneliness/Sadness due to relationship issues,guide_to_bruno,Fantastic! Let's go meet Bruno and find some comfort and relaxation together!,943,8,7

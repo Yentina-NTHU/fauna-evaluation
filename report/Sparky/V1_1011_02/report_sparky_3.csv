@@ -1,0 +1,5 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+Hello~ I just wanted to see what this app is all about!,explore,"Hello there! I'm Sparky, here to help with feelings and challenges. What’s on your mind today?",783,8,7
+I'm so frustrated. Schoolwork feels overwhelming sometimes!,explore,I get that! Schoolwork can pile up. Are you struggling with time management or feeling stressed about the workload?,833,10,9
+"A bit of both, I guess. I want to manage my time better but sometimes I just feel anxious about getting everything done.",introduce_bizy,"I totally understand! Bizy, a time management bee, can help you tackle both anxiety and procrastination. Want to meet her?",905,9,8
+"Sure, meeting Bizy sounds like a fun idea! I'd love some tips on managing my time better.",guide_to_bizy,Fantastic! Bizy will buzz right in to help you manage your time and ease that anxiety!,964,10,10
