@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been having problems with my friends at school, and it's stressing me out. I really don't know how to deal with it.",explore,That sounds really tough! Would you like to talk more about what's been happening with your friends?,792,7,6
+"Yeah, I would like to talk about it. It's just that there's been a lot of misunderstandings lately, and it feels like there's this tension between us. It's hard to focus on schoolwork when I'm worried about it.",introduce_bruno,Misunderstandings can be tricky! There's a wise bear named Bruno who can help you manage stress and relax. Want to meet him?,884,6,5
+Meeting Bruno sounds interesting! I would love to learn some ways to manage stress and relax.,guide_to_bruno,Great choice! Bruno will provide you with some relaxing techniques. Let’s go see him!,939,8,7

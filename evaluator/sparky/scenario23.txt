@@ -3,3 +3,4 @@ Scenario:
 - Expect Agent Behavior:
     1. Guide them to Bruno for emotional calming and communication skills practice.
     2. Encourage the student to communicate patiently and suggest starting with emotional management.
+    3. Give user some tips to communicate with parent.

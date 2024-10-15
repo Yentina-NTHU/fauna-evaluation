@@ -1,0 +1,3 @@
+person_say,user_problem,animal_action,animal_say,animal_token,accuracy,practicality
+Can it really generate meditation content automatically? That sounds really interesting!,Interest in meditation content,introduce_bruno,"Oh, absolutely! Bruno the bear is a meditation expert. Would you like to meet him for more insights?",860,8,7
+"Yes, I would love to meet Bruno! I'm looking forward to getting some insights on meditation from him.",Interest in meditation insights,guide_to_bruno,Fantastic! Let’s go meet Bruno; he’ll share some wonderful meditation techniques with you!,926,8,9

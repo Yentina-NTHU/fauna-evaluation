@@ -1,0 +1,5 @@
+person_say,user_problem,animal_action,animal_say,animal_token,accuracy,practicality
+What does this app do? I'm curious about how you can help me!,Curious about app capabilities,explore,I’m excited to help you! What challenges are you facing or feelings do you want to express?,859,4,5
+"I feel a bit overwhelmed with schoolwork sometimes, especially around exam time. I also worry about whether I'm good enough at art and writing. I want to explore how to manage my stress better.",Overwhelmed with schoolwork and self-doubt in art and writing,explore,That’s tough! Would you like help managing your time or focusing on relaxation techniques?,950,7,8
+I think I could really use help with relaxation techniques. I want to find ways to chill out during stressful times.,Need help with relaxation techniques,introduce_bruno,I hear you! There’s a calming bear named Bruno who specializes in relaxation techniques. Want to meet him?,1023,9,9
+"Yes, I’d love to meet Bruno! It sounds like he can help me with relaxation techniques.",Need help with relaxation techniques,guide_to_bruno,Great choice! Bruno will help you relax and find your chill. Let’s go see him!,1090,8,9

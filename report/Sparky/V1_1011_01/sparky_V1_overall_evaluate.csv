@@ -1,0 +1,24 @@
+scenario_id,type,reason
+1,Perfectly Match,Suggested meeting Bruno for relaxation techniques aligns with expected behavior.
+2,Good Response,Introduces Bruno but lacks practical meditation examples.
+3,Perfectly Match,Proactively identified user's need for relaxation and suggested a specific feature.
+4,Bad Response,The agent redirected to another character instead of continuing the conversation.
+5,Perfectly Match,Introduced Bruno for relaxation techniques as expected.
+6,Perfectly Match,The agent effectively guided the user to Bizy for time management advice.
+7,Perfectly Match,Offered encouraging words and motivational techniques throughout the conversation.
+8,Perfectly Match,Introduced Bruno for relaxation and focus techniques.
+9,Perfectly Match,Agent guided the user to Bizy for time management strategies.
+10,Perfectly Match,Provides encouragement and positive reinforcement throughout the conversation.
+11,Good Response,Encourages user but lacks direct tips for teamwork improvement.
+12,Perfectly Match,Guided user to Bizy for time management assistance.
+13,Perfectly Match,Guides the student to Bizy for task breakdown and management.
+14,Bad Response,Didn't guide to relaxation techniques or improve study environment.
+15,Bad Response,Did not guide to Bruno or provide additional creativity tips.
+16,Good Response,"Suggests a helpful resource, but lacks direct communication tips."
+17,Perfectly Match,Guided user to Bizy for time management strategies.
+18,Perfectly Match,Suggested active learning methods and encouraged exploration.
+19,Perfectly Match,Guided user to Bruno for mindfulness meditation to address anxiety.
+20,Perfectly Match,Provided emotional support and encouraged a comforting experience with Bruno.
+21,Perfectly Match,Introduces Bruno for bedtime meditation methods.
+22,Good Response,Suggesting relaxation techniques may indirectly help with confidence.
+23,Perfectly Match,Guided user to Bruno for calming techniques and communication skills.

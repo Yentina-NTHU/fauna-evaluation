@@ -1,0 +1,4 @@
+person_say,user_problem,animal_action,animal_say,animal_token,accuracy,practicality
+I'm facing a new task and don't know where to start. It feels really overwhelming!,1.Overwhelmed,explore,That sounds tough! What kind of task is it? Maybe we can break it down together!,860,8,7
+"It's a big research project for history class, and I'm not sure how to organize my thoughts or where to find the information I need.",1.Overwhelmed 2.Organizing thoughts 3.Finding information,introduce_bizy,It's absolutely normal to feel overwhelmed! I know a busy bee named Bizy who specializes in organizing tasks! Want to meet her?,952,9,8
+Meeting Bizy sounds like a great idea! I could use some help with organizing my task.,1.Overwhelmed 2.Organizing thoughts 3.Finding information,guide_to_bizy,Fantastic! Bizy will help you organize your project and find the right resources. Let's go see her!,1031,9,9

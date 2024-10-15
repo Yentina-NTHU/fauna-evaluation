@@ -1,0 +1,4 @@
+person_say,animal_action,animal_say,animal_token,accuracy,practicality
+"I've been really stressed lately, the exam is coming up, and I can’t focus on studying. Is there a quick way to relax?",introduce_bruno,I hear you! Bruno the bear specializes in relaxation and stress relief. Want to meet him for some calming techniques?,800,9,9
+Meeting Bruno sounds amazing! I could really use some calming techniques right now.,guide_to_bruno,Great choice! Let's head over to Bruno. He'll help you find that calm you need for studying!,855,9,9
+Thank you! I'm excited to meet Bruno and learn some techniques to help me calm down.,explore,"You're welcome! What specific techniques are you hoping to learn from Bruno? Deep breathing, meditation, or something else?",913,9,10
