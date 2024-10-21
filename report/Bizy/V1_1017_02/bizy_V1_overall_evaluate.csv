@@ -1,0 +1,10 @@
+scenario_id,type,reason
+1,Perfectly Match,Analyzed procrastination and suggested breaking tasks into smaller steps.
+2,Perfectly Match,Guided user on creating a study plan and setting goals.
+3,Perfectly Match,Suggested breaking down tasks to reduce pressure.
+4,Bad Response,Response does not provide practical strategies for productivity.
+5,Perfectly Match,Suggesting breaking tasks into smaller phases matches expected behavior.
+6,Bad Response,Lack of specific suggestions for improving the learning environment.
+7,Perfectly Match,Provided methods to celebrate small wins and take breaks.
+8,Bad Response,No time management suggestions provided to the user.
+9,Bad Response,It doesn't address time estimation or buffer time.

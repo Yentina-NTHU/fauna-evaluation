@@ -1,0 +1,7 @@
+person_say,animal_action,animal_say,animal_token
+I always procrastinate starting to write reports. What can help me get started?,start_analysis,Bzzzz! What thoughts come to mind when you think about writing those reports?,435
+"Honestly, I just feel overwhelmed and often worry that I won't do a good job. I get scared about not meeting expectations, and that makes it hard to even start.",finish_analysis,Bzzzz! It sounds like you have a Fear of Failure. Try breaking tasks into smaller steps to reduce pressure!,515
+That makes sense! I can try breaking the reports into smaller parts. It might help me focus on one thing at a time instead of feeling overwhelmed. Any tips on how to start with that?,advise,Buzz! Start by outlining the main sections. Focus on one section at a time. You've got this!,546
+"Thanks! Outlining sounds like a great way to organize my thoughts. I'll give it a shot and try to focus on one section at a time. Hopefully, that will make it less daunting!",greet,"Buzz buzz! You're on the right path! Keep it up, and remember, one step at a time!",629
+Thank you! I really appreciate the encouragement. I'll remind myself to take it slow and just focus on each step. It feels a bit less scary now!,greet,"Buzz! I'm so glad to hear that! You've got this, one buzz-worthy step at a time!",703
+Thanks for the support! I feel more motivated now. I think I'll start outlining my report. Bye!,greet,"Buzz buzz! Go conquer that report! See you next time, and keep buzzing!",763

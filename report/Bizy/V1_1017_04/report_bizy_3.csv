@@ -1,0 +1,9 @@
+person_say,animal_action,animal_say,animal_token
+I have many tasks to do. How can I finish them before the deadline?,start_analysis,Bzzzz! What feelings do you experience when faced with these tasks?,433
+"I often feel overwhelmed and stressed when faced with so many tasks. Sometimes I doubt my ability to complete everything on time, which makes it even harder to focus.",analysing,Bzzzz! Do you fear that failing to complete them will disappoint others or yourself?,506
+"Yes, I do fear that if I don't complete everything on time, I might disappoint my teachers or my friends. But I also feel really disappointed in myself when I struggle to keep up.",finish_analysis,Bzzzz! You have a Fear of Failure. Try breaking tasks into smaller steps to build confidence!,587
+That sounds like a good idea! Breaking tasks into smaller steps could make them feel more manageable and help me feel more confident. How should I start?,advise,"Buzz! Start by writing a list of your tasks, then break each into smaller, actionable steps!",611
+"Okay, I'll make a list of my tasks and break them down into smaller steps. This should really help me see what I need to do without feeling overwhelmed. Thanks for the tip!",greet,Buzz buzz! I'm glad to help! Remember to take it one step at a time!,688
+Thanks! I’ll keep that in mind. Taking it one step at a time will definitely help me manage my time better.,greet,Buzz! You're on the right track! Keep buzzing towards your goals!,749
+Thank you! I'll keep that positive energy and stay focused on my goals. I appreciate the encouragement!,greet,Buzz buzz! You're doing great! Keep that momentum going!,803
+Thanks for the support! I’ll definitely keep the momentum going and tackle my tasks one step at a time. Bye for now!,greet,"Buzz! You're welcome! Good luck, and remember to keep buzzing!",865

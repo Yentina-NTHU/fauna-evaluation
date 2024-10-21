@@ -1,0 +1,10 @@
+scenario_id,type,reason
+1,Perfectly Match,Analyzed procrastination and suggested smaller goals.
+2,Bad Response,Did not provide a specific study plan or guidance.
+3,Perfectly Match,Analyzed procrastination type and suggested task breakdown.
+4,Bad Response,Lacks practical productivity strategies for the user.
+5,Perfectly Match,Suggested breaking tasks into smaller phases.
+6,Bad Response,Fails to suggest improving the learning environment.
+7,Bad Response,Agent didn’t provide practical methods for motivation.
+8,Bad Response,Fails to provide practical time management suggestions.
+9,Perfectly Match,Provided strategies to improve time estimation and motivation.

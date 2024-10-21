@@ -1,0 +1,10 @@
+scenario_id,type,reason
+1,Perfectly Match,Analyzed procrastination by discussing emotions around writing.
+2,Perfectly Match,Guided user in creating a study plan and breaking tasks down.
+3,Good Response,Suggests manageable tasks but lacks specific breakdown guidance.
+4,Perfectly Match,Provided strategies like breaking tasks and setting SMART goals.
+5,Perfectly Match,Suggested breaking the project into smaller tasks and celebrating victories.
+6,Bad Response,No suggestions for improving learning environment were provided.
+7,Good Response,"Encourages enjoyment of creativity, helping the user refocus."
+8,Bad Response,No practical advice on time management was provided.
+9,Perfectly Match,Agent taught task breakdown and time limits.

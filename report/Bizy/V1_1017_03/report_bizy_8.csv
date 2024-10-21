@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token
+I always feel like I don't have enough time. How can I improve efficiency?,start_analysis,Bzzzz! What specific tasks do you struggle to start or complete on time?,435
+I usually struggle with finishing my homework and studying for exams on time. I get distracted easily or feel overwhelmed by everything I have to do.,analyzing,"Bzzzz! Do you fear failing if you don’t get top grades, or is it the workload that feels suffocating?",513
+"I think it's a bit of both. I worry about not getting top grades because I feel like that's expected, and the workload can really feel suffocating sometimes. It makes me second-guess myself and my abilities.",finish_analysis,Bzzzz! It seems you experience a Fear of Failure. Focus on smaller tasks and self-compassion for better progress!,604
+That makes sense! Focusing on smaller tasks sounds like a good way to manage everything. Self-compassion is definitely something I need to work on too!,advise,Buzz buzz! Break tasks into tiny pieces and celebrate small wins. You've got this!,623
+Thank you! Celebrating small wins sounds like a fun idea and might help me stay motivated. I’ll definitely give it a try!,greet,Buzz buzz! I'm thrilled you're excited! Keep buzzing with that motivation!,686
+I will! Thanks for the encouragement! I feel more motivated to tackle my tasks now.,greet,Buzz buzz! That's awesome to hear! Keep that energy up and keep buzzing through your tasks!,745
+Thanks! I will definitely keep that energy up. Talk to you later!,greet,Buzz buzz! Take care! I'm here whenever you need a boost!,796

@@ -1,0 +1,4 @@
+Scenario:
+- Description: The user starts casual conversation unrelated to solving their procrastination issue.
+- Expected Agent Behavior:
+	1. Politely guide the user back to the topic of solving procrastination.

@@ -1,0 +1,10 @@
+scenario_id,type,reason
+1,Perfectly Match,Analyzes procrastination and encourages breaking tasks into smaller goals.
+2,Perfectly Match,Provided tips for creating an effective study plan.
+3,Perfectly Match,Suggested breaking down tasks and setting mini-deadlines to reduce stress.
+4,Perfectly Match,Provided productivity strategy: breaking tasks into smaller steps and using Pomodoro Technique.
+5,Perfectly Match,Suggested breaking the project into smaller tasks and setting timers.
+6,Bad Response,Agent didn't provide specific suggestions for improving the learning environment.
+7,Good Response,Encourages creativity but doesn't suggest specific motivational methods.
+8,Good Response,Encourages time management techniques but lacks specific tool suggestions.
+9,Good Response,Encourages the user and offers further support.

@@ -1,0 +1,8 @@
+person_say,animal_action,animal_say,animal_token
+I always feel like I don't have enough time. How can I improve efficiency?,start_analysis,Bzzzz! Why do you feel you don't have enough time? Is it the tasks or something else?,440
+"It's mostly the amount of tasks! Sometimes I have so much homework, and on top of that, I want to find time for art and writing. It feels like there's never enough time for everything.",analyzing,Buzz buzz! Do you feel pressured to succeed in both homework and your personal projects?,520
+"Yeah, I definitely feel that pressure. I want to do well in school, but I also love my art and writing, and I worry that I won't have enough time to excel in both.",finish_analysis,Bzzzz! It seems you have a Fear of Success. Balance is key! Prioritize tasks and set realistic goals.,606
+That makes sense! I should try prioritizing tasks. Do you have any tips on how to set realistic goals without feeling overwhelmed?,advise,Buzz buzz! Break tasks into smaller steps and set mini-deadlines. You'll feel more accomplished!,637
+That sounds like a really good idea! Breaking tasks into smaller steps could definitely help me not feel so overwhelmed. I'll give it a try!,greet,Buzz buzz! I'm glad to hear that! Keep buzzing through those tasks!,702
+Thank you! I will! It's nice to feel a bit more motivated. I'll definitely keep buzzing through my tasks!,greet,Buzz buzz! You're welcome! Keep that energy up and enjoy your creations!,762
+Thanks! I will! I'm excited to get back to my art and writing. Have a great day!,greet,Buzz buzz! Have a wonderful day! Keep buzzing and creating!,818
