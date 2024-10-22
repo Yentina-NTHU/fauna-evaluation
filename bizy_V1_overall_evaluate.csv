@@ -1,0 +1,10 @@
+scenario_id,type,reason
+1,Perfectly Match,Analyzed user's procrastination feelings and suggested manageable goals.
+2,Perfectly Match,Agent guided in creating a study plan and managing subjects.
+3,Perfectly Match,Analyzed procrastination and suggested breaking down tasks effectively.
+4,Perfectly Match,Provided strategies like breaking tasks into smaller steps.
+5,Perfectly Match,Suggested breaking projects into smaller goals and celebrating achievements.
+6,Good Response,Encourages goal-setting but lacks specific environment improvement suggestions.
+7,Perfectly Match,Provided methods to increase motivation and variation in learning.
+8,Bad Response,Did not suggest any time-tracking tools or daily plans.
+9,Perfectly Match,Offers advice on estimating and breaking down tasks effectively.
